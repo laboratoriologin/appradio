@@ -1,0 +1,4 @@
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN_Phone\Radio.PhoneApp.CBN\Radio.PhoneApp.CBN.Architect\Bin\Debug\Radio.PhoneApp.CBN.Architect.dll
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN_Phone\Radio.PhoneApp.CBN\Radio.PhoneApp.CBN.Architect\Bin\Debug\Radio.PhoneApp.CBN.Architect.pdb
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN_Phone\Radio.PhoneApp.CBN\Radio.PhoneApp.CBN.Architect\obj\Debug\Radio.PhoneApp.CBN.Architect.dll
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN_Phone\Radio.PhoneApp.CBN\Radio.PhoneApp.CBN.Architect\obj\Debug\Radio.PhoneApp.CBN.Architect.pdb

@@ -1,0 +1,11 @@
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Release\App.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Release\App.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Release\MainPage.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Release\MainPage.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Release\XamlTypeInfo.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Release\App.xaml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Release\App.xbf
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Release\XamlSaveStateFile.xml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Release\MainPage.xaml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Release\MainPage.xbf
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Release\GloboFM.Phone.UI.csprojResolveAssemblyReference.cache

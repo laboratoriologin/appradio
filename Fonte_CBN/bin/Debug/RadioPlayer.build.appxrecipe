@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RICARDO-LABLOG</Machine>
+    <WindowsUser>Ricardo</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.exe">
+      <PackagePath>RadioPlayer.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.pdb">
+      <PackagePath>RadioPlayer.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\packages\GoogleAnalyticsTracker.Core.3.0.20\lib\portable-net45+win+wp80\GoogleAnalyticsTracker.Core.dll">
+      <PackagePath>GoogleAnalyticsTracker.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\packages\GoogleAnalyticsTracker.RT.3.0.20\lib\win\GoogleAnalyticsTracker.RT.dll">
+      <PackagePath>GoogleAnalyticsTracker.RT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.pdb">
+      <PackagePath>HtmlAgilityPack.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.xml">
+      <PackagePath>HtmlAgilityPack.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\+.png">
+      <PackagePath>Assets\+.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\0_3_icone_compartilhar_instagram.png">
+      <PackagePath>Assets\0_3_icone_compartilhar_instagram.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\1+.png">
+      <PackagePath>Assets\1+.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\180\Splash-Screen-1116x540px.scale-100.png">
+      <PackagePath>Assets\180\Splash-Screen-1116x540px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\180\Splash-Screen-1116x540px.scale-140.png">
+      <PackagePath>Assets\180\Splash-Screen-1116x540px.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\180\Splash-Screen-1116x540px.scale-180.png">
+      <PackagePath>Assets\180\Splash-Screen-1116x540px.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\1_+.png">
+      <PackagePath>Assets\1_+.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\1_icone_compartilhar_facebook.png">
+      <PackagePath>Assets\1_icone_compartilhar_facebook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\1_icone_globo_cultura_teatro.png">
+      <PackagePath>Assets\1_icone_globo_cultura_teatro.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\2_icone_compartilhar_twitter.png">
+      <PackagePath>Assets\2_icone_compartilhar_twitter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\2_icone_globo_cultura_cinema.png">
+      <PackagePath>Assets\2_icone_globo_cultura_cinema.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\3_icone_globo_cultura_musica.png">
+      <PackagePath>Assets\3_icone_globo_cultura_musica.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\4_icone_globo_cultura_exposicao.png">
+      <PackagePath>Assets\4_icone_globo_cultura_exposicao.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\background_snap_cbnfmsalvador.png">
+      <PackagePath>Assets\background_snap_cbnfmsalvador.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\100\Background-1920x1080px.png">
+      <PackagePath>Assets\CBN\100\Background-1920x1080px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\100\Logo-150x50px.png">
+      <PackagePath>Assets\CBN\100\Logo-150x50px.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\100\Logo-na-tela-Home-302x163px.png">
+      <PackagePath>Assets\CBN\100\Logo-na-tela-Home-302x163px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\100\Small-Logo-30x30px.png">
+      <PackagePath>Assets\CBN\100\Small-Logo-30x30px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\100\Splash-Screen-620x300px.png">
+      <PackagePath>Assets\CBN\100\Splash-Screen-620x300px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\100\Store-Logo-50x50px.png">
+      <PackagePath>Assets\CBN\100\Store-Logo-50x50px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\100\Wide-Logo-310x150-px.png">
+      <PackagePath>Assets\CBN\100\Wide-Logo-310x150-px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\140\Background-1920x1080px.png">
+      <PackagePath>Assets\CBN\140\Background-1920x1080px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\140\Logo-210x210px.png">
+      <PackagePath>Assets\CBN\140\Logo-210x210px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\140\Logo-na-tela-Home-302x163px.png">
+      <PackagePath>Assets\CBN\140\Logo-na-tela-Home-302x163px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\140\Small-Logo-42x42px.png">
+      <PackagePath>Assets\CBN\140\Small-Logo-42x42px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\140\Splash-Screen-868x420px.png">
+      <PackagePath>Assets\CBN\140\Splash-Screen-868x420px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\140\Store-Logo-70x70px.png">
+      <PackagePath>Assets\CBN\140\Store-Logo-70x70px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\140\Wide-Logo-434x210px.png">
+      <PackagePath>Assets\CBN\140\Wide-Logo-434x210px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Background-1920x1080px.png">
+      <PackagePath>Assets\CBN\180\Background-1920x1080px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Logo-270x270px.scale-100.png">
+      <PackagePath>Assets\CBN\180\Logo-270x270px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Logo-270x270px.scale-140.png">
+      <PackagePath>Assets\CBN\180\Logo-270x270px.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Logo-270x270px.scale-180.png">
+      <PackagePath>Assets\CBN\180\Logo-270x270px.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Logo-270x270px.scale-80.png">
+      <PackagePath>Assets\CBN\180\Logo-270x270px.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Logo-na-tela-Home-302x163px.png">
+      <PackagePath>Assets\CBN\180\Logo-na-tela-Home-302x163px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Small-Logo-54x54px.scale-100.png">
+      <PackagePath>Assets\CBN\180\Small-Logo-54x54px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Small-Logo-54x54px.scale-140.png">
+      <PackagePath>Assets\CBN\180\Small-Logo-54x54px.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Small-Logo-54x54px.scale-180.png">
+      <PackagePath>Assets\CBN\180\Small-Logo-54x54px.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Small-Logo-54x54px.scale-80.png">
+      <PackagePath>Assets\CBN\180\Small-Logo-54x54px.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Splash-Screen-1116x540px.png">
+      <PackagePath>Assets\CBN\180\Splash-Screen-1116x540px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Store-Logo-90x90px.scale-100.png">
+      <PackagePath>Assets\CBN\180\Store-Logo-90x90px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Store-Logo-90x90px.scale-140.png">
+      <PackagePath>Assets\CBN\180\Store-Logo-90x90px.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Store-Logo-90x90px.scale-180.png">
+      <PackagePath>Assets\CBN\180\Store-Logo-90x90px.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Wide-Logo-558x270px.scale-100.png">
+      <PackagePath>Assets\CBN\180\Wide-Logo-558x270px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Wide-Logo-558x270px.scale-140.png">
+      <PackagePath>Assets\CBN\180\Wide-Logo-558x270px.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Wide-Logo-558x270px.scale-180.png">
+      <PackagePath>Assets\CBN\180\Wide-Logo-558x270px.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\180\Wide-Logo-558x270px.scale-80.png">
+      <PackagePath>Assets\CBN\180\Wide-Logo-558x270px.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\80\Background-1920x1080px.png">
+      <PackagePath>Assets\CBN\80\Background-1920x1080px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\80\Logo-120x120px.png">
+      <PackagePath>Assets\CBN\80\Logo-120x120px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\80\Logo-na-tela-Home-302x163px.png">
+      <PackagePath>Assets\CBN\80\Logo-na-tela-Home-302x163px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\80\Small-Logo-24x24px.png">
+      <PackagePath>Assets\CBN\80\Small-Logo-24x24px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\80\Wide-Logo-248x120px.png">
+      <PackagePath>Assets\CBN\80\Wide-Logo-248x120px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\background_snap_cbnfmsalvador.png">
+      <PackagePath>Assets\CBN\background_snap_cbnfmsalvador.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\bg_cbnfmsalvador.png">
+      <PackagePath>Assets\CBN\bg_cbnfmsalvador.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\Logo-150x50px.png">
+      <PackagePath>Assets\CBN\Logo-150x50px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\Logo-na-tela-Home-302x163px.png">
+      <PackagePath>Assets\CBN\Logo-na-tela-Home-302x163px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\CBN\logo_home_cbnfmsalvador.png">
+      <PackagePath>Assets\CBN\logo_home_cbnfmsalvador.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\pause.png">
+      <PackagePath>Assets\pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\play.png">
+      <PackagePath>Assets\play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bootTheme.xml">
+      <PackagePath>bootTheme.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Common\Architecture\xmlStyle.xml">
+      <PackagePath>Common\Architecture\xmlStyle.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\PageWhatsapp.html">
+      <PackagePath>PageWhatsapp.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\SquareBannerPageSnapped.html">
+      <PackagePath>SquareBannerPageSnapped.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\SquareBannerPage.html">
+      <PackagePath>SquareBannerPage.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\RadioScript.js">
+      <PackagePath>RadioScript.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Common\ExtendedSplash.xaml">
+      <PackagePath>Common\ExtendedSplash.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Common\Flyout\TelaMensagem.xaml">
+      <PackagePath>Common\Flyout\TelaMensagem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Common\RadioStyles.xaml">
+      <PackagePath>Common\RadioStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\DetalheAgendaCinema.xaml">
+      <PackagePath>DetalheAgendaCinema.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\DetalheAgendaCultural.xaml">
+      <PackagePath>DetalheAgendaCultural.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Flyout\TelaMensagem.xaml">
+      <PackagePath>Flyout\TelaMensagem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

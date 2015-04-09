@@ -1,0 +1,8 @@
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Debug\App.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Debug\App.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Debug\MainPage.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Debug\MainPage.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Debug\XamlTypeInfo.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Debug\App.xaml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Debug\App.xbf
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.UI\obj\Debug\XamlSaveStateFile.xml

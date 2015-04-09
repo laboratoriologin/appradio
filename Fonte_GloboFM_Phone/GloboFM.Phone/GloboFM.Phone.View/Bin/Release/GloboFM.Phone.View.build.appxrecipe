@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RICARDO</Machine>
+    <WindowsUser>ricardolcarneiro</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f5104fd9-bdbd-4a88-a0f2-fdfa6e31bd6d</PackageIdentityName>
+    <IntermediateOutputPath>E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Bin\Release\GloboFM.Phone.View.dll">
+      <PackagePath>GloboFM.Phone.View.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Bin\Silverlight.Media.Phone.dll">
+      <PackagePath>Silverlight.Media.Phone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\GFM\Windows-Phone-Background-480x800px.png">
+      <PackagePath>Assets\GFM\Windows-Phone-Background-480x800px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\GFM\Windows-Phone-Splash-Screen-1152x1920px.png">
+      <PackagePath>Assets\GFM\Windows-Phone-Splash-Screen-1152x1920px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\GFM\Windows-Phone-Splash-Screen-480x800px.png">
+      <PackagePath>Assets\GFM\Windows-Phone-Splash-Screen-480x800px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\GFM\Windows-Phone-Splash-Screen-672x1120px.png">
+      <PackagePath>Assets\GFM\Windows-Phone-Splash-Screen-672x1120px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_GloboFM_Phone\GloboFM.Phone\GloboFM.Phone.View\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

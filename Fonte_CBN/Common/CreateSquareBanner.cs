@@ -1,0 +1,66 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RadioPlayer.Common
+{
+    public   class CreateSquareBanner
+    {
+
+        public  string RenderSquareBanner()
+        {
+            string strHTML = " <html lang='en' xmlns='http://www.w3.org/1999/xhtml'> "
+                            + " <head>"
+                            + " <meta charset='utf-8' /> "
+                            + "  <title></title> "
+
+                            + "   <script language=JavaScript> "
+                         
+                            + " OAS_url ='http://ads.globo.com/RealMedia/ads/'; "
+                            + " OAS_listpos = 'Top,Frame1,Right,x07,x08. Middle'; "
+                            + " OAS_query = ''; "
+                            + " OAS_sitepage = 'afcbnbahia/home'; "
+                            + " OAS_target = '_blank'; "
+
+                            + " OAS_version = 10; "
+                            + " OAS_rn = '001234567890'; OAS_rns = '1234567890'; "
+                            + " OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11); "
+                            + " function OAS_NORMAL(pos) { "
+                            + " document.write('<A HREF='' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '' TARGET=_top>'); "
+                            + " document.write('<IMG SRC='' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '' BORDER=0></A>'); "
+                            + " } "
+
+                            + "     </script> "
+                            + "     <script language=JavaScript1.1> "
+                            + " OAS_version = 11; "
+                            + " if (navigator.userAgent.indexOf('Mozilla/3') != -1) "
+                            + " OAS_version = 10; "
+                            + " if (OAS_version >= 11) "
+                            + " document.write('<SCR'+ 'IPT LANGUAGE=JavaScript1.1 SRC='' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + OAS_query + ''></SCRIPT>'); "
+
+                            + "     </script> "
+                            + "    <script language='JavaScript'> "
+
+                            + " document.write(''); "
+                            + " function OAS_AD(pos) { "
+                            + " if (OAS_version >= 11) "
+                            + " OAS_RICH(pos); "
+                            + " else "
+                            + " OAS_NORMAL(pos); "
+                            + " } "
+
+                            + "   </script> "
+                            + " </head> "
+                            + " <body> "
+                            + "   <script language='JavaScript'> "
+                            + "       OAS_AD('x07'); "
+                            + "   </script> "
+                            + " </body> "
+                            + " </html> ";
+
+            return strHTML;
+        }
+    }
+}

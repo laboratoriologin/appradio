@@ -1,0 +1,295 @@
+﻿<common:LayoutAwarePage
+    
+    x:Class="RadioPlayer.DetalheAgendaCinema"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RadioPlayer"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+        DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+        xmlns:common="using:RadioPlayer.Common" >
+
+    <Grid Margin="0,0,0,-63">
+        <Grid.Resources>
+            <!-- Collection of items displayed by this page -->
+
+
+            <CollectionViewSource
+            x:Name="itemsViewSource"
+            Source="{Binding}"/>
+
+            <common:DetalheEventoTemplateSelector x:Key="DetalheEventoTemplateSelector" 
+                                 TemplateTwoTexts="{StaticResource itemListVieAgendaDetalhesEvento}"
+                                 TemplateThreeTexts="{StaticResource itemListAgendaDetalhesEventoLocal}"/>
+
+
+        </Grid.Resources>
+        <Grid Style="{StaticResource LayoutRootStyle}" Background="{x:Null}" Margin="0,-76,0,76">
+            <Grid x:Name="gridFull">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="140"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="150"/>
+                </Grid.RowDefinitions>
+
+                <Image Margin="0" Source="Assets/BackGroundLogo.png" RenderTransformOrigin="-0.243,-0.202" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="320" Height="150"  Grid.Row="2" Canvas.ZIndex="10"/>
+
+                <ProgressBar x:Name="indeterminateProgressBar1" VerticalAlignment="Top" Width="500" Margin="0,10,0,0" Foreground="{x:Null}" BorderBrush="{x:Null}" Background="{x:Null}" Style="{StaticResource ProgressBarStyle1}" />
+
+                <!-- Back button and page title -->
+                <Viewbox Stretch="Uniform" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="0">
+                    <Grid VerticalAlignment="Center"  Width="2560" Margin="0,127,0,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="120"/>
+                            <ColumnDefinition Width="10*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock x:Name="pageTitle" Grid.Column="1" IsHitTestVisible="false"  Style="{StaticResource TituloCabeçalhoPagStyleIBahia}" Foreground="{Binding corTitulo}"  FontSize="96"  Margin="-80,0,0,14"/>
+                        <HyperlinkButton Grid.Column="3" NavigateUri="{Binding TextoTwitter}" Margin="29,56,0,0" Style="{StaticResource HyperlinkButtonControlTemplate1}" Height="80" Width="80"/>
+                        <HyperlinkButton Grid.Column="3" NavigateUri="{Binding TextoFacebook}" Margin="120,56,0,0" Style="{StaticResource HyperlinkButtonControlTemplate2}" Height="80" Width="80"/>
+                        <StackPanel Grid.Column="2" HorizontalAlignment="Left" Margin="6,10,0,-3" Width="624">
+                            <TextBlock x:Name="lblCompartilha" TextWrapping="Wrap" Text="Compartilhe:" Height="123" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontSize="64" Padding="0,49,0,0" Width="376"/>
+                        </StackPanel>
+                    </Grid>
+                </Viewbox>
+
+                <Viewbox Stretch="Fill" x:Name="scrollViewer" Grid.Row="1"  Grid.RowSpan="2" HorizontalAlignment="Left" VerticalAlignment="Bottom">
+                    <ScrollViewer  Style="{StaticResource HorizontalScrollViewerStyle}" BorderThickness="0,0,0,5"  Width="2560" Height="1440" >
+                        <Grid Height="1760" Width="3698">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="200"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="1538"/>
+                                <ColumnDefinition Width="900"/>
+                                <ColumnDefinition Width="900"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock x:Name="titulo"   Grid.Column="2" Style="{StaticResource TextoTituloDetalhamento}"  TextWrapping="Wrap" HorizontalAlignment="Left" Width="800" Margin="75,70,0,20" FontFamily="Segoe UI"  Foreground="{Binding ItemVO.CorLetraNoticiaRadio}"   LineStackingStrategy="BlockLineHeight" Height="70" LineHeight="55" VerticalAlignment="Top"/>
+                            <TextBlock x:Name="maisInfo" Grid.Column="0" Style="{StaticResource TextoTituloDetalhamento}"  TextWrapping="Wrap" HorizontalAlignment="Left" Width="710" Margin="56,53,0,0" FontFamily="Segoe UI"  Foreground="{Binding ItemVO.CorLetraNoticiaRadio}"   Height="149" VerticalAlignment="Top" LineHeight="69.333" Grid.RowSpan="2"/>
+                            <TextBlock x:Name="detalhes" Grid.Column="0" Style="{StaticResource TextoTituloDetalhamento}" TextWrapping="Wrap" Margin="893,76,0,0" FontFamily="Segoe UI"  Foreground="{Binding ItemVO.CorLetraNoticiaRadio}"  Height="98" HorizontalAlignment="Left" Width="749" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+                            <TextBlock x:Name="emCartaz" Grid.Column="1" Style="{StaticResource TextoTituloDetalhamento}"  TextWrapping="Wrap" Margin="20,76,10,28" FontFamily="Segoe UI" Width="800"  Foreground="{Binding ItemVO.CorLetraNoticiaRadio}"  Height="70" VerticalAlignment="Top"/>
+
+
+
+                            <Grid Grid.Row="1" Grid.Column="0" Margin="50,0,30,14">
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="720"/>
+                                    <ColumnDefinition Width="720"/>
+                                </Grid.ColumnDefinitions>
+
+                                <ListView x:Name="ListaDetalhesEvento"
+                                  Grid.Column="1"
+                                   ItemTemplateSelector="{StaticResource DetalheEventoTemplateSelector}"
+                                  HorizontalAlignment="Left" 
+                                  VerticalAlignment="Top"
+                                  SelectionMode="None"     
+                                Foreground="{Binding ItemVO.CorLetraNoticiaRadio}"
+                                  Width="950"  
+                                  Height="1430"
+                                 ItemContainerStyle="{StaticResource ListViewItemStyle1}" Margin="102,0,-332,0"
+                                  />
+
+                                <Grid HorizontalAlignment="Left" Grid.Column="0" Width="950"  >
+                                    <StackPanel  Background="Transparent"  VerticalAlignment="Top"  HorizontalAlignment="Left" Width="800">
+                                        <Grid Width="800" Height="920">
+
+                                            <ScrollViewer Width="700" HorizontalAlignment="Left" Margin="0,0,0,-277">
+                                                <TextBlock x:Name="texto1"
+									   Grid.Row="1"
+                                       TextAlignment="Left" 
+									   FontFamily="Segoe UI" 
+									   FontSize="58" 
+									   TextWrapping="Wrap"
+									   HorizontalAlignment="Left"        Foreground="{Binding ItemVO.CorLetraNoticiaRadio}" Width="650"/>
+                                            </ScrollViewer>
+                                        </Grid>
+                                    </StackPanel>
+                                </Grid>
+
+                            </Grid>
+
+                            <ListView x:Name="ListaEmCartaz" 
+                                  Grid.Column="1"
+                                  Grid.Row="1"
+                                  ItemTemplate="{StaticResource itemListaOndeEstaPassandoCinema}"
+                                  HorizontalAlignment="Left" 
+                                  VerticalAlignment="Top"
+                                  SelectionMode="None" 
+                                        Foreground="{Binding ItemVO.CorLetraNoticiaRadio}"
+                                  ItemContainerStyle="{StaticResource ListViewItemStyle1}" 
+                                   Width="750" Height="Auto" Margin="0,0,0,475"
+                                  />
+
+                            <!--Loaded="WebView_Loaded"-->
+                            <Viewbox Stretch="Fill"  Grid.Row="1"     Grid.Column="2" Margin="0,0,-280,840" Opacity="0" IsHitTestVisible="False">
+
+                                <WebView x:Name="webView" 
+                                 VerticalAlignment="Top"
+                                     Margin="28,20,28,0"
+                                     Width="1180" Height="720" 
+                                 />
+                            </Viewbox>
+                        </Grid>
+                    </ScrollViewer>
+                </Viewbox>
+            </Grid>
+
+            <!--<Grid x:Name="gridSnapped" Visibility="Collapsed">
+                <Grid.Background>
+                    <ImageBrush ImageSource="Assets/bg_snapped.png"/>
+                </Grid.Background>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100" />
+                    <RowDefinition Height="1000*"/>
+                </Grid.RowDefinitions>
+
+
+                <ProgressBar x:Name="indeterminateProgressBar1Snapped" VerticalAlignment="Top" Width="300" Margin="0,10,0,0" Foreground="{x:Null}" BorderBrush="{x:Null}" Background="{x:Null}" Style="{StaticResource ProgressBarStyle1}" />-->
+
+                <!-- Back button and page title -->
+                <!--<Grid x:Name="gridCabecalho2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="150"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="backButton2"  Style="{StaticResource SnappedBackButtonStyle}"/>
+                    <TextBlock x:Name="pageTitle2" FontSize="40" Text="{Binding  TituloPagina}" Style="{StaticResource TextoTitulo}" Grid.Column="1" IsHitTestVisible="false" Margin="5, 0, 0, 35" Foreground="{Binding corTitulo}"/>
+                    <HyperlinkButton Grid.Column="2" x:Name="btTwitter2" NavigateUri="{Binding TextoTwitter}" Margin="20, 10, 0, 0" Style="{StaticResource HyperlinkButtonControlTemplate1Snapped}" Height="48" Width="51"/>
+                    <HyperlinkButton Grid.Column="2" x:Name="btFacebook2" NavigateUri="{Binding TextoFacebook}" Margin="60, 10, 0, 0" Style="{StaticResource HyperlinkButtonControlTemplate2Snapped}" Height="48" Width="51"/>
+
+                </Grid>
+
+                <ScrollViewer x:Name="scrollViewerSnapped" Grid.Row="1" Style="{StaticResource VerticalScrollViewerStyle}" BorderThickness="10,90,0,130" Height="Auto" >
+
+                    <Grid >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="290"/>
+
+                        </Grid.ColumnDefinitions>
+                        <RichTextBlock Grid.Row="0" Grid.Column="0" Margin="0,0,0,0" Width="290" >
+                            <Paragraph>
+                                <InlineUIContainer >
+                                    <TextBlock x:Name="tituloSnapped" Width="280"  Text="{Binding  TituloEvento}" Foreground="Black" FontSize="38"  TextWrapping="Wrap"  Height="Auto" FontWeight="Light" LineHeight="40" LineStackingStrategy="BlockLineHeight" Margin="10,0,0,0"/>
+                                </InlineUIContainer>
+                            </Paragraph>
+                            <Paragraph>
+                                <InlineUIContainer >-->
+                                    <!-- Loaded="WebView_Loaded"-->
+                                    <!--<WebView x:Name="webViewSnapped"
+                                 VerticalAlignment="Top"
+                                 Height="260"
+                                 Margin="10,20,0,0"
+                                 Width="280"/>
+                                </InlineUIContainer>
+                            </Paragraph>
+                        </RichTextBlock>
+                        <TextBlock x:Name="maisInfoSnapped" Grid.Row="0" TextWrapping="Wrap" Grid.Column="0" Text="{Binding  MaisInfoEvento.TituloItemDetalhe}" FontSize="32" HorizontalAlignment="Left" Width="290" Margin="10,400,30,14" FontFamily="Segoe UI"  Foreground="Black"/>
+                        <Grid HorizontalAlignment="Left" Grid.Row="1" Grid.Column="0"  Width="290" Margin="10,0,0,80">
+                            <StackPanel  Background="Transparent"  Width="290">
+                                <Grid Width="290" Height="Auto">
+                                    <TextBlock x:Name="txtSnapped"
+									   Grid.Row="1"
+                                       TextAlignment="Justify" 
+									   Text="{Binding  MaisInfoEvento.ConteudoItemDetalhe}" 
+									   Margin="0,0,0,0" 
+									   FontFamily="Segoe UI" 
+									   FontSize="16" 
+									   TextWrapping="Wrap"
+									   HorizontalAlignment="Left" Foreground="Black" Width="270"/>
+                                </Grid>
+                            </StackPanel>
+                        </Grid>
+                        <TextBlock x:Name="detalhesSnapped" Grid.Row="2" Grid.Column="0" Text="Detalhes do Filme" TextWrapping="Wrap" Width="290" Margin="10,0,0,14"  FontSize="32"  FontFamily="Segoe UI"  Foreground="Black"/>
+                        <Grid Grid.Row="2" Grid.Column="0" Margin="0,70,0,70">
+
+                            <ListView x:Name="ListaDetalhesEventoSnapped"
+                                  ItemsSource="{Binding  ListaDetalhesEvento}"
+                                  ItemTemplate="{StaticResource itemListVieAgendaDetalhesEventoSnapped}"
+                                  HorizontalAlignment="Left" 
+                                  VerticalAlignment="Top"
+                                  SelectionMode="None"                          
+                                  Width="300"  
+                                  Height="Auto"
+                                  ItemContainerStyle="{StaticResource ListViewItemStyle1}"
+                                  />
+                        </Grid>
+
+
+                        <TextBlock x:Name="emCartazSnapped" Grid.Row="3" Grid.Column="0" TextWrapping="Wrap" Width="290"  Text="{Binding  TituloCartazEvento}" FontSize="31" Margin="10,0,0,58" FontFamily="Segoe UI"  Foreground="Black"/>
+                        <ListView x:Name="ListaEmCartazSnapped" 
+                                  Grid.Column="0"
+                                  Grid.Row="3"
+                                  ItemsSource="{Binding  ListaOndeEstaPassando}"
+                                  ItemTemplate="{StaticResource itemListaOndeEstaPassandoCinemaSnapped}"
+                                  HorizontalAlignment="Left" 
+                                  VerticalAlignment="Top"
+                                  Width="310"
+                                  SelectionMode="None"  Height="Auto"
+                                  ItemContainerStyle="{StaticResource ListViewItemStyle1}"
+                                  Margin="0,30,0,20" />
+                    </Grid>
+                </ScrollViewer>
+
+            </Grid>
+-->
+
+            <VisualStateManager.VisualStateGroups>
+
+                <!-- Visual states reflect the application's view state -->
+                <VisualStateGroup x:Name="ApplicationViewStates" CurrentStateChanged="ApplicationViewStates_CurrentStateChanged">
+                    <VisualState x:Name="FullScreenLandscape"/>
+                    <VisualState x:Name="Filled"/>
+
+                    <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                    <VisualState x:Name="FullScreenPortrait">
+                        <Storyboard>
+                            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                            </ObjectAnimationUsingKeyFrames>
+                        </Storyboard>
+                    </VisualState>
+
+                    <!-- The back button and title have different styles when snapped -->
+                    <!--<VisualState x:Name="Snapped">
+                        <Storyboard>
+                            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="gridSnapped" Storyboard.TargetProperty="Visibility">
+                                <DiscreteObjectKeyFrame KeyTime="0" Value="Visible"/>
+                            </ObjectAnimationUsingKeyFrames>
+                            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="gridFull" Storyboard.TargetProperty="Visibility">
+                                <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                            </ObjectAnimationUsingKeyFrames>
+                        </Storyboard>
+                    </VisualState>-->
+                </VisualStateGroup>
+            </VisualStateManager.VisualStateGroups>
+        </Grid>
+    </Grid>
+
+    <Page.BottomAppBar>
+        <AppBar>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left">
+                    <Button x:Name="AppBarUpdateDataBtn" Style="{StaticResource BtnAppBarAtualizaDados}" Click="AppBarUpdateDataBtn_Click"  />
+                </StackPanel>
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+</common:LayoutAwarePage>

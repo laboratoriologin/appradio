@@ -1,0 +1,1772 @@
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\1__azul+.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px - Copia.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\CBN\140\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\180\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\CBN\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\GFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\pri.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\LanguageQualifiers.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5\Fonte\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\1__azul+.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px - Copia.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\CBN\140\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\180\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\CBN\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\GFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\LanguageQualifiers.txt
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\1_+.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\1__azul+.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Background-1920x1080px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-150x50px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-na-tela-Home-302x163px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Small-Logo-30x30px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Splash-Screen-620x300px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Store-Logo-50x50px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Wide-Logo-310x150-px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Background-1920x1080px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px - Copia.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Logo-na-tela-Home-302x163px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Small-Logo-30x30px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Splash-Screen-620x300px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Store-Logo-50x50px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Wide-Logo-310x150-px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\CBN\140\Logo-na-tela-Home-302x163px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\bootTheme.xml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\180\Splash-Screen-1116x540px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\180\Background-1920x1080px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\180\Splash-Screen-1116x540px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\CBN\180\Splash-Screen-1116x540px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\GFM\180\Splash-Screen-1116x540px.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Common\Architecture\xmlStyle.xml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\RadioPlayer.exe
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\RadioPlayer.pdb
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\resources.pri
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\AppxManifest.xml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\RadioPlayer.build.appxrecipe
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\bin\Debug\HtmlAgilityPack.pri
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\App.g.i.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\App.g.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Common\ExtendedSplash.g.i.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Common\ExtendedSplash.g.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Common\RadioStyles.g.i.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Common\RadioStyles.g.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCinema.g.i.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCinema.g.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCultural.g.i.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCultural.g.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Flyout\TelaMensagem.g.i.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Flyout\TelaMensagem.g.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\MainPage.g.i.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\MainPage.g.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\App.xaml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Common\ExtendedSplash.xaml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Common\RadioStyles.xaml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCinema.xaml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCultural.xaml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\Flyout\TelaMensagem.xaml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\MainPage.xaml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\RadioPlayer.exe
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\RadioPlayer.pdb
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\priconfig.xml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\layout.resfiles
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\resources.resfiles
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\pri.resfiles
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\LanguageQualifiers.txt
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\HtmlAgilityPack.pri.xml
+C:\Users\Ricardo\Downloads\FonteAppRadio\Fonte\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\1__azul+.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px - Copia.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\CBN\140\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM SUL\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\180\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\BFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\CBN\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\GFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\LanguageQualifiers.txt
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\CBN\logo_cbnfmsalvador.jpg
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\obj\Debug\pri.resfiles.intermediate
+D:\Projetos\ProjetoRadio\radioApp\Radio - Versao2.5\FonteAppRadio2\FonteAppRadio\Fonte\bin\Debug\Assets\GFM\100\Logo-150x50px2.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1__azul+.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px - Copia.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\CBN\140\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\CBN\logo_cbnfmsalvador.jpg
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\GFM\100\Logo-150x50px2.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\180\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\CBN\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\GFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\pri.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\qualifiers.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\qualifiers.txt.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_+.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\1__azul+.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Background-1920x1080px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-150x50px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Logo-na-tela-Home-302x163px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Small-Logo-30x30px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Splash-Screen-620x300px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Store-Logo-50x50px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\100\Wide-Logo-310x150-px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Background-1920x1080px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px - Copia.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Logo-na-tela-Home-302x163px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Small-Logo-30x30px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Splash-Screen-620x300px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Store-Logo-50x50px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\100\Wide-Logo-310x150-px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\CBN\140\Logo-na-tela-Home-302x163px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\CBN\logo_cbnfmsalvador.jpg
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\GFM\100\Logo-150x50px2.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM SUL\180\Splash-Screen-1116x540px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\180\Background-1920x1080px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\BFM\180\Splash-Screen-1116x540px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\CBN\180\Splash-Screen-1116x540px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\GFM\180\Splash-Screen-1116x540px.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\bootTheme.xml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Common\Architecture\xmlStyle.xml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.exe
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.pdb
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\resources.pri
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\AppxManifest.xml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\RadioPlayer.build.appxrecipe
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.dll
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.pdb
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.xml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\bin\Debug\HtmlAgilityPack.pri
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\App.g.i.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\App.g.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.g.i.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.g.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.g.i.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.g.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.g.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.g.i.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.g.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.g.i.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.g.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.g.i.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.g.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\MainPage.g.i.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\MainPage.g.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\XamlTypeInfo.g.cs
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\App.xaml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\ExtendedSplash.xaml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\RadioStyles.xaml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Common\StandardStyles.xaml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCinema.xaml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\DetalheAgendaCultural.xaml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\Flyout\TelaMensagem.xaml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\MainPage.xaml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.exe
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.pdb
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\priconfig.xml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\layout.resfiles
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\resources.resfiles
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\pri.resfiles
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\LanguageQualifiers.txt
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\HtmlAgilityPack.pri.xml
+C:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\1__azul+.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM SUL\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM SUL\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM SUL\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM SUL\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM SUL\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM SUL\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM SUL\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-150x50px - Copia.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\CBN\140\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\CBN\logo_cbnfmsalvador.jpg
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\GFM\100\Logo-150x50px2.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM SUL\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\180\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\CBN\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\GFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\pri.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\qualifiers.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\qualifiers.txt.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.5\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\1_+.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\1__azul+.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Background-1920x1080px.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-150x50px - Copia.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-150x50px.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Small-Logo-30x30px.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Splash-Screen-620x300px.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Store-Logo-50x50px.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\180\Background-1920x1080px.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\bootTheme.xml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.exe
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.pdb
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\resources.pri
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\AppxManifest.xml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\App.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\App.g.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\MainPage.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\MainPage.g.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\App.xaml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\MainPage.xaml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.exe
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.pdb
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\priconfig.xml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\layout.resfiles
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\resources.resfiles
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\pri.resfiles
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\LanguageQualifiers.txt
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\Fonte - BahiaFM_V2_2\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1__azul+.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-150x50px - Copia.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\180\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\pri.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\qualifiers.txt
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\qualifiers.txt.intermediate
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1_+.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\1__azul+.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Background-1920x1080px.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-150x50px - Copia.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-150x50px.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Small-Logo-30x30px.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Splash-Screen-620x300px.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Store-Logo-50x50px.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\180\Background-1920x1080px.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\BFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\bootTheme.xml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.exe
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.pdb
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\resources.pri
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\AppxManifest.xml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\App.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\App.g.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\MainPage.g.i.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\MainPage.g.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\App.xaml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\MainPage.xaml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.exe
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.pdb
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\priconfig.xml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\layout.resfiles
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\resources.resfiles
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\pri.resfiles
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\LanguageQualifiers.txt
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\Fonte - BahiaFM_V3Casa\Fonte - BahiaFM_V2Casa\Fonte - BahiaFM_V2\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\1__azul+.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\BFM\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px - Copia.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\BFM\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\BFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\BFM\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\BFM\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\BFM\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\BFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\BFM\180\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\BFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\pri.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\qualifiers.txt
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\qualifiers.txt.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\1__azul+.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\pri.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\qualifiers.txt
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\qualifiers.txt.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - BahiaFMSul\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1__azul+.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\pri.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\qualifiers.txt
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\qualifiers.txt.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Logo-150x50px2.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Logo-210x210px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Small-Logo-42x42px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Splash-Screen-868x420px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Store-Logo-70x70px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Wide-Logo-434x210px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-100.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-140.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-180.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-80.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Small-Logo-54x54px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Store-Logo-90x90px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Wide-Logo-558x270px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\background_snap_globo.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\bg_globo.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\logo_home_globofmsalvador.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_+.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1__azul+.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Background-1920x1080px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Logo-150x50px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Logo-150x50px2.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Small-Logo-30x30px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Splash-Screen-620x300px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Store-Logo-50x50px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Background-1920x1080px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Logo-210x210px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Logo-na-tela-Home-302x163px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Small-Logo-42x42px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Splash-Screen-868x420px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Store-Logo-70x70px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Wide-Logo-434x210px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Background-1920x1080px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-100.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-140.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-180.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-80.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-na-tela-Home-302x163px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Small-Logo-54x54px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Store-Logo-90x90px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Wide-Logo-558x270px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\background_snap_globo.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\bg_globo.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\Logo-150x50px.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\logo_home_globofmsalvador.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\bootTheme.xml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\RadioPlayer.exe
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\RadioPlayer.pdb
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\resources.pri
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\AppxManifest.xml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\App.g.i.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\App.g.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\MainPage.g.i.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\MainPage.g.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\App.xaml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\MainPage.xaml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.exe
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.pdb
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\priconfig.xml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\layout.resfiles
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\resources.resfiles
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\pri.resfiles
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\LanguageQualifiers.txt
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\FonteCasa6\FonteCasa4\Fonte - GloboFM\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\1__azul+.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Logo-150x50px2.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Logo-210x210px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Small-Logo-42x42px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Splash-Screen-868x420px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Store-Logo-70x70px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\140\Wide-Logo-434x210px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-100.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-140.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-180.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-270x270px.scale-80.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Small-Logo-54x54px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Store-Logo-90x90px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\180\Wide-Logo-558x270px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\background_snap_globo.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\bg_globo.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\GFM\logo_home_globofmsalvador.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\pri.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\qualifiers.txt
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\qualifiers.txt.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - GloboFM\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\1_icone_compartilhar_facebook_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\1_icone_globo_cultura_teatro_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\1__azul+.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\2_icone_globo_cultura_cinema_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\3_icone_globo_cultura_musica_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\4_icone_globo_cultura_exposicao_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\0_2_icone_compartilhar_twitter_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Assets\0_3_icone_compartilhar_instagram_azul.png
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\PageWhatsapp.html
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\RadioScript.js
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\SquareBannerPageSnapped.html
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\SquareBannerPage.html
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\GoogleAnalyticsTracker.Core.dll
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\GoogleAnalyticsTracker.RT.dll
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\pri.resfiles.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\qualifiers.txt
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\qualifiers.txt.intermediate
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\FonteCasa7\FonteCasa4\Fonte - CBN\obj\Debug\ProjectArchitectures.txt
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_+.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\bootTheme.xml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Common\Architecture\xmlStyle.xml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\PageWhatsapp.html
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioScript.js
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\SquareBannerPageSnapped.html
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\SquareBannerPage.html
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.exe
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.pdb
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\resources.pri
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\AppxManifest.xml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\GoogleAnalyticsTracker.Core.dll
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\GoogleAnalyticsTracker.RT.dll
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.dll
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Newtonsoft.Json.dll
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.pdb
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.xml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.pri
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Newtonsoft.Json.xml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.g.i.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\XamlTypeInfo.g.cs
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.xaml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.xaml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.xaml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.xaml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.xaml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.xaml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.xaml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.xaml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.exe
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.pdb
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\priconfig.xml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\layout.resfiles
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\resources.resfiles
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\pri.resfiles
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\LanguageQualifiers.txt
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\HtmlAgilityPack.pri.xml
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\ProjectArchitectures.txt
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.build.appxrecipe
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Background-1920x1080px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Logo-150x50px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Logo-na-tela-Home-302x163px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Small-Logo-30x30px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Splash-Screen-620x300px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Store-Logo-50x50px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Wide-Logo-310x150-px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Background-1920x1080px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Logo-210x210px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Logo-na-tela-Home-302x163px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Small-Logo-42x42px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Splash-Screen-868x420px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Store-Logo-70x70px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Wide-Logo-434x210px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Background-1920x1080px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-100.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-140.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-180.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-80.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-na-tela-Home-302x163px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Small-Logo-54x54px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Splash-Screen-1116x540px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Store-Logo-90x90px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-100.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-140.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-180.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-80.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Background-1920x1080px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Logo-120x120px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Logo-na-tela-Home-302x163px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Small-Logo-24x24px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\background_snap_cbnfmsalvador.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\bg_cbnfmsalvador.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\Logo-150x50px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\Logo-na-tela-Home-302x163px.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\logo_cbnfmsalvador.jpg
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\logo_home_cbnfmsalvador.png
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\priconfig.xml.intermediate
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\layout.resfiles.intermediate
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\resources.resfiles.intermediate
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\pri.resfiles.intermediate
+E:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Logo-210x210px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Small-Logo-42x42px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Splash-Screen-868x420px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Store-Logo-70x70px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Wide-Logo-434x210px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-100.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-140.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-180.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-80.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Small-Logo-54x54px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Store-Logo-90x90px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-100.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-140.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-180.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-80.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Logo-120x120px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Small-Logo-24x24px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\background_snap_cbnfmsalvador.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\bg_cbnfmsalvador.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\logo_cbnfmsalvador.jpg
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\logo_home_cbnfmsalvador.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\PageWhatsapp.html
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioScript.js
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\SquareBannerPageSnapped.html
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\SquareBannerPage.html
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\GoogleAnalyticsTracker.Core.dll
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\GoogleAnalyticsTracker.RT.dll
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\pri.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\qualifiers.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\qualifiers.txt.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.5_Final\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_+.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Background-1920x1080px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Logo-150x50px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Logo-na-tela-Home-302x163px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Small-Logo-30x30px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Splash-Screen-620x300px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Store-Logo-50x50px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Wide-Logo-310x150-px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Background-1920x1080px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Logo-210x210px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Logo-na-tela-Home-302x163px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Small-Logo-42x42px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Splash-Screen-868x420px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Store-Logo-70x70px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Wide-Logo-434x210px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Background-1920x1080px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-100.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-140.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-180.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-80.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-na-tela-Home-302x163px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Splash-Screen-1116x540px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-100.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-140.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-180.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-80.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Background-1920x1080px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Logo-120x120px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Logo-na-tela-Home-302x163px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Small-Logo-24x24px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\background_snap_cbnfmsalvador.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\bg_cbnfmsalvador.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\Logo-150x50px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\Logo-na-tela-Home-302x163px.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\logo_home_cbnfmsalvador.png
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\bootTheme.xml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Common\Architecture\xmlStyle.xml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\PageWhatsapp.html
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioScript.js
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\SquareBannerPageSnapped.html
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\SquareBannerPage.html
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.exe
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.pdb
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\resources.pri
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\AppxManifest.xml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.build.appxrecipe
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\GoogleAnalyticsTracker.Core.dll
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\GoogleAnalyticsTracker.RT.dll
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.dll
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Newtonsoft.Json.dll
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.pdb
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.xml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.pri
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\bin\Debug\Newtonsoft.Json.xml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.g.i.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.g.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.g.i.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.g.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.g.i.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.g.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.g.i.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.g.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.g.i.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.g.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.g.i.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.g.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.g.i.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.g.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.g.i.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.g.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\XamlTypeInfo.g.cs
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.xaml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.xaml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.xaml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.xaml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.xaml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.xaml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.xaml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.xaml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.exe
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.pdb
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\priconfig.xml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\priconfig.xml.intermediate
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\layout.resfiles
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\layout.resfiles.intermediate
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\resources.resfiles
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\resources.resfiles.intermediate
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\pri.resfiles
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\pri.resfiles.intermediate
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\qualifiers.txt
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\qualifiers.txt.intermediate
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\HtmlAgilityPack.pri.xml
+E:\Projeto\Radio - Versao2.6\Fonte_CBN\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\0_3_icone_compartilhar_instagram.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_+.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_icone_compartilhar_facebook.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\1_icone_globo_cultura_teatro.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\2_icone_compartilhar_twitter.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\2_icone_globo_cultura_cinema.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\3_icone_globo_cultura_musica.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\4_icone_globo_cultura_exposicao.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Small-Logo-30x30px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Splash-Screen-620x300px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Store-Logo-50x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\100\Wide-Logo-310x150-px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Logo-210x210px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Small-Logo-42x42px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Splash-Screen-868x420px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Store-Logo-70x70px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\140\Wide-Logo-434x210px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-100.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-140.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-180.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-270x270px.scale-80.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Splash-Screen-1116x540px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-100.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-140.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-180.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\180\Wide-Logo-558x270px.scale-80.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Background-1920x1080px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Logo-120x120px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\80\Small-Logo-24x24px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\background_snap_cbnfmsalvador.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\bg_cbnfmsalvador.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\Logo-150x50px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\Logo-na-tela-Home-302x163px.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Assets\CBN\logo_home_cbnfmsalvador.png
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\bootTheme.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Common\Architecture\xmlStyle.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\PageWhatsapp.html
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioScript.js
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\SquareBannerPageSnapped.html
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\SquareBannerPage.html
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\resources.pri
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\AppxManifest.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\RadioPlayer.build.appxrecipe
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\GoogleAnalyticsTracker.Core.dll
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\GoogleAnalyticsTracker.RT.dll
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.dll
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\HtmlAgilityPack.pri
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.g.i.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\XamlTypeInfo.g.cs
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\App.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\ExtendedSplash.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\RadioStyles.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Common\StandardStyles.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCinema.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\DetalheAgendaCultural.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\Flyout\TelaMensagem.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\MainPage.xaml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.exe
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.pdb
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.csproj.GenerateResource.Cache
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\priconfig.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\layout.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\resources.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\pri.resfiles
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\LanguageQualifiers.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\HtmlAgilityPack.pri.xml
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\ProjectArchitectures.txt
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\RadioPlayer.csprojResolveAssemblyReference.cache
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\priconfig.xml.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\layout.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\resources.resfiles.intermediate
+D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_CBN\obj\Debug\pri.resfiles.intermediate

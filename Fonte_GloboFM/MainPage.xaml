@@ -1,0 +1,585 @@
+﻿<common:LayoutAwarePage
+    x:Name="pageRoot"
+    x:Class="RadioPlayer.MainPage"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RadioPlayer"
+
+
+    xmlns:common="using:RadioPlayer.Common"
+    
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Loaded="pageRoot_Loaded" >
+    <Page.Resources>
+        <CollectionViewSource x:Name="cvsRadioCategory" IsSourceGrouped="True" ItemsPath="Items"/>
+
+        <CollectionViewSource x:Name="cvsThemes" IsSourceGrouped="False"/>
+        <CollectionViewSource
+            x:Name="groupedItemsViewSource"
+            Source="{Binding }"
+            IsSourceGrouped="true"
+            ItemsPath="ListaItem"/>
+        <common:GrupoNoticiaTemplateSelector x:Key="GrupoNoticiaTemplateSelector" 
+                                 TemplateFiguraTexto="{StaticResource GrupoNoticiasItemSemImagem}"
+                                 TemplateFundoVermelhoTexto="{StaticResource MainPage}"
+                                             TemplateGridAgenda="{StaticResource GridAgendaCultural}"
+                                            TemplateGridPodCast="{StaticResource GridPodCast}" 
+                                            TemplateGridProgramacaoMusical="{StaticResource GridProgramacaoMusical}" 
+                                             TemplateGridPromocao="{StaticResource GridPromocao}" 
+                
+                               />
+    </Page.Resources>
+    <Page.TopAppBar>
+        <AppBar Name="ThemeBar" Visibility="Collapsed">
+            <StackPanel Name="AppBarNormal" Margin="40,0,0,0" Orientation="Horizontal" Height="70">
+                <TextBlock Text="temas" FontSize="40" Margin="0,5,0,0"  TextAlignment="Center"  Style="{StaticResource HeaderTextStyle}" Foreground="{Binding CorLetraNoticiaRadio}"/>
+                <GridView ItemsSource="{Binding Source={StaticResource cvsThemes}}" Name="themesGrid" VerticalAlignment="Top" Margin="0,10,0,0" SelectionChanged="OnThemeSelected">
+                    <GridView.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock TextAlignment="Center" Text="{Binding Title}" Width="120"  Style="{StaticResource BodyTextStyle}" FontSize="23" Foreground="{Binding CorLetraNoticiaRadio}"/>
+                        </DataTemplate>
+                    </GridView.ItemTemplate>
+                </GridView>
+            </StackPanel>
+        </AppBar>
+    </Page.TopAppBar>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="210*"/>
+            <ColumnDefinition Width="473*"/>
+        </Grid.ColumnDefinitions>
+            <Image x:Name="RootImage" Grid.ColumnSpan="2"/>
+            <Viewbox Grid.ColumnSpan="2">
+            	<Grid x:Name="GridNormal" VerticalAlignment="Bottom" Height="688" Width="1266">
+            		<Grid.ColumnDefinitions>
+            			<ColumnDefinition Width="194*"/>
+            			<ColumnDefinition Width="439*"/>
+            		</Grid.ColumnDefinitions>
+            		<Grid.RowDefinitions>
+
+            			<RowDefinition Height="115.849"/>
+            			<RowDefinition Height="0.076"/>
+            			<RowDefinition/>
+            		</Grid.RowDefinitions>
+            		<ProgressBar x:Name="progressNoticia" IsIndeterminate="True" VerticalAlignment="Top" Margin="31,10,381,0" Foreground="White" BorderBrush="{x:Null}" Grid.Column="1" Height="6"   Background="{x:Null}"   />
+            		<Image  x:Name="ImageTopo" Source="Assets/BFM_SUL/140/Logo-na-tela-Home-302x163px.png" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="66,18,10,538" Height="132" Width="312" Grid.RowSpan="3"/>
+            <!-- Logo topo -->
+           
+            		<Image Margin="0" Source="Assets/BackGroundLogo.png" RenderTransformOrigin="-0.243,-0.202" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="180" Height="110" Tapped="GoToSite" Grid.Row="2" Canvas.ZIndex="10" Grid.Column="1"/>
+
+            		<Grid VerticalAlignment="Bottom" HorizontalAlignment="Center" Grid.ColumnSpan="2" Height="528" Width="1266" Grid.Row="2">
+
+            			<Grid.ColumnDefinitions>
+            				<ColumnDefinition Width="Auto"/>
+            				<ColumnDefinition Width="*"/>
+            			</Grid.ColumnDefinitions>
+
+            			<Grid Grid.Column="0" VerticalAlignment="Top" HorizontalAlignment="Center">
+            				<Viewbox Stretch="Fill" Height="528" VerticalAlignment="Bottom" >
+            					<StackPanel  Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            						<Grid x:Name="GridPlayer" Margin="10,0,0,0" >
+            							<Grid.RowDefinitions>
+            								<RowDefinition Height="*" />
+            								<RowDefinition Height="298" />
+            								<RowDefinition Height="150" />
+            							</Grid.RowDefinitions>
+
+            							<TextBlock x:Name="TitleNamePlayer" Grid.Row="0" Text="Publicidade" FontSize="10.667" Margin="5,29,0,6" Style="{StaticResource HeaderTextStyle}" Foreground="#FFFFFF" Height="40" VerticalAlignment="Top"/>
+
+            							<Grid Grid.Row="1" Background="#97210514" Width="350" x:Name="PlayerTopGrid" Margin="0,0,0,10">
+
+                                        <Grid  Height="265" Width="315" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,0,0,0">
+        								<!--<WebView  Source="http://ads.img.globo.com/RealMedia/ads/Creatives/ibahia/ca_mmabrasil_04052014/mma_square1328968.swf/1398882102"/>-->
+                                            <WebView x:Name="banner"   />
+            								</Grid>
+            							</Grid>
+
+            							<Grid Grid.Row="2" Background="#97210514" Width="350" x:Name="PlayerBottomGrid1" Margin="0,0,0,10">
+            								<StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+            									<Button x:Name="btnFacebookGeral"  Style="{StaticResource ImageButtonStyle}" Click="btnFacebookGeral_Click" HorizontalAlignment="Left" Width="100" Height="100">
+            										<Image x:Name="btnFacebook" Margin="10" Source="Assets/1_icone_compartilhar_facebook.png"/>
+            									</Button>
+            									<Button x:Name="btnTwiterGeral" Style="{StaticResource ImageButtonStyle}" Click="btnTwiterGeral_Click" HorizontalAlignment="Center" Width="120" Height="120">
+                                                <Image x:Name="btnTwiter" Source="Assets/2_icone_compartilhar_twitter.png" Height="78" Width="80" />
+            									</Button>
+            									<Button x:Name="btnInstagramGeral" Style="{StaticResource ImageButtonStyle}" Click="btnInstagramGeral_Click" HorizontalAlignment="Right" Width="100" Height="100">
+            										<Image x:Name="nextImg1" Margin="10" Source="Assets/0_3_icone_compartilhar_instagram.png" />
+            									</Button>
+            								</StackPanel>
+            							</Grid>
+            						</Grid>
+            					</StackPanel>
+            				</Viewbox>
+            			</Grid>
+            			<Grid x:Name="gridPrincipal" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="50,0,0,0">
+                    <!--<Viewbox Stretch="Fill" Margin="0,0,0,0" >
+                        <StackPanel  Orientation="Vertical"  >
+                            <GridView Grid.Row="1" ItemsSource="{Binding Source={StaticResource cvsRadioCategory}}" x:Name="radiosGrid"  Margin="0,0,0,0" 
+        				SelectionChanged="OnItemSelected" VerticalAlignment="Center" HorizontalAlignment="Center" IsEnabled="False" IsDoubleTapEnabled="False" IsHoldingEnabled="False" IsRightTapEnabled="False" >
+
+
+                                <GridView.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel x:Name="GridViewRootItem" Background="{Binding Color}" Orientation="Horizontal" Width="350" Height="206" IsRightTapEnabled="False" IsHoldingEnabled="False" IsDoubleTapEnabled="False">
+                                            <Grid  Height="130" Width="130" Margin="30,0,20,0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                                <Image Source="{Binding Image}" Stretch="Uniform" Margin="5"/>
+                                            </Grid>
+                                            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Left" >
+                                                <TextBlock x:Name="txtTitle" Text="{Binding Title}" FontSize="23"  TextTrimming="WordEllipsis" Loaded="txtTitle_Loaded" />
+                                                <TextBlock x:Name="txtDescription"  Text="{Binding Description}" FontSize="23"  TextTrimming="WordEllipsis" />
+                                                <TextBlock x:Name="txtLocality"  Text="{Binding Locality}" FontSize="23"  TextTrimming="WordEllipsis" />
+
+                                            </StackPanel>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </GridView.ItemTemplate>
+
+                                <GridView.ItemsPanel>
+                                    <ItemsPanelTemplate>
+                                        <StackPanel Orientation="Horizontal"/>
+                                    </ItemsPanelTemplate>
+                                </GridView.ItemsPanel>
+
+                                <GridView.GroupStyle>
+                                    <GroupStyle HidesIfEmpty="True">
+                                        <GroupStyle.HeaderTemplate>
+                                            <DataTemplate>
+                                                <Grid Margin="0">
+
+                                                    <TextBlock Text='{Binding Category}' Foreground='{Binding Color}' FontSize="40" Margin="0,0,0,35" Style="{StaticResource HeaderTextStyle}"/>
+
+                                                </Grid>
+                                            </DataTemplate>
+                                        </GroupStyle.HeaderTemplate>
+
+                                        <GroupStyle.ContainerStyle>
+                                            <Style TargetType="GroupItem">
+                                                <Setter Property="Margin" Value="50,0"/>
+                                            </Style>
+                                        </GroupStyle.ContainerStyle>
+
+                                        <GroupStyle.Panel>
+                                            <ItemsPanelTemplate>
+                                                <VariableSizedWrapGrid Orientation="Horizontal" Margin="10,0,10,0" MaximumRowsOrColumns="2"  />
+
+                                            </ItemsPanelTemplate>
+                                        </GroupStyle.Panel>
+                                    </GroupStyle>
+                                </GridView.GroupStyle>
+                            </GridView>
+
+                        </StackPanel>
+                    </Viewbox>-->
+                    
+                    
+               
+            				<Viewbox Stretch="Fill" Margin="0,0,0,0" >
+            					<StackPanel  Orientation="Vertical">
+
+            						<GridView x:Name="gridNoticias"
+            							Margin="0,0,0,0"
+            							AutomationProperties.AutomationId="ItemGridView"
+            							AutomationProperties.Name="Grouped Items"
+            							Width="1366" 
+            							MinHeight="768"
+            							ItemsSource="{Binding Source={StaticResource groupedItemsViewSource}}"
+            							ItemTemplateSelector="{StaticResource GrupoNoticiaTemplateSelector}"
+            							SelectionMode="None"
+                    
+            							IsItemClickEnabled="True" ItemClick="gridNoticias_ItemClick" Visibility="Visible">
+            							<GridView.ItemsPanel>
+            								<ItemsPanelTemplate>
+            									<VirtualizingStackPanel Orientation="Horizontal" VariableSizedWrapGrid.RowSpan="4" VariableSizedWrapGrid.ColumnSpan="3"/>
+            								</ItemsPanelTemplate>
+            							</GridView.ItemsPanel>
+            							<GridView.GroupStyle>
+            								<GroupStyle HidesIfEmpty="True">
+            									<GroupStyle.HeaderTemplate>
+            										<DataTemplate>
+            											<Grid Margin="1,30,0,6">
+
+
+            												<StackPanel x:Name="stackNoticia"  Orientation="Horizontal" >
+            													<TextBlock x:Name="txtCategoria" Text="{Binding NomeCategoria}"  Foreground="Transparent"  Margin="50,0,0,50" Style="{StaticResource GroupHeaderTextStyle}" FontSize="66"/>
+            												</StackPanel>
+            											</Grid>
+            										</DataTemplate>
+            									</GroupStyle.HeaderTemplate>
+            									<GroupStyle.Panel>
+            										<ItemsPanelTemplate>
+            											<VariableSizedWrapGrid Orientation="Horizontal" Margin="10,0,10,0" MaximumRowsOrColumns="2"  />
+            										</ItemsPanelTemplate>
+            									</GroupStyle.Panel>
+            								</GroupStyle>
+            							</GridView.GroupStyle>
+            						</GridView>
+            					</StackPanel>
+            				</Viewbox>
+
+            				<Viewbox x:Name="viewNoticias"  Stretch="Fill" Grid.Row="1" Grid.RowSpan="2">
+            					<UserControl Loaded="StartLayoutUpdates" Unloaded="StopLayoutUpdates" Width="1366" Height="768" >
+            						<ScrollViewer x:Name="scrollViewer" Style="{StaticResource HorizontalScrollViewerStyle}" Grid.Row="1" Height="731" VerticalAlignment="Bottom" Margin="-1,0,0,0">
+                                <!--
+                        UserControl chosen as the templated item because it supports visual state management
+                        Loaded/unloaded events explicitly subscribe to view state updates from the page
+                    -->
+
+            							<VisualStateManager.VisualStateGroups>
+
+                                    <!-- Visual states reflect the application's view state inside the FlipView -->
+            								<VisualStateGroup x:Name="ApplicationViewStates">
+            									<VisualState x:Name="FullScreenLandscape"/>
+            									<VisualState x:Name="Filled"/>
+
+                                        <!-- Respect the narrower 100-pixel margin convention for portrait -->
+            									<VisualState x:Name="FullScreenPortrait">
+            										<Storyboard>
+            											<ObjectAnimationUsingKeyFrames Storyboard.TargetName="richTextColumns" Storyboard.TargetProperty="Margin">
+            												<DiscreteObjectKeyFrame KeyTime="0" Value="97,0,87,57"/>
+            											</ObjectAnimationUsingKeyFrames>
+            											<ObjectAnimationUsingKeyFrames Storyboard.TargetName="image" Storyboard.TargetProperty="MaxHeight">
+            												<DiscreteObjectKeyFrame KeyTime="0" Value="400"/>
+            											</ObjectAnimationUsingKeyFrames>
+            										</Storyboard>
+            									</VisualState>
+
+                                        <!-- When snapped, the content is reformatted and scrolls vertically -->
+            									<VisualState x:Name="Snapped">
+            										<Storyboard>
+            											<ObjectAnimationUsingKeyFrames Storyboard.TargetName="richTextColumns" Storyboard.TargetProperty="Margin">
+            												<DiscreteObjectKeyFrame KeyTime="0" Value="17,0,17,57"/>
+            											</ObjectAnimationUsingKeyFrames>
+            											<ObjectAnimationUsingKeyFrames Storyboard.TargetName="scrollViewer" Storyboard.TargetProperty="Style">
+            												<DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource VerticalScrollViewerStyle}"/>
+            											</ObjectAnimationUsingKeyFrames>
+            											<ObjectAnimationUsingKeyFrames Storyboard.TargetName="richTextBlock" Storyboard.TargetProperty="Width">
+            												<DiscreteObjectKeyFrame KeyTime="0" Value="280"/>
+            											</ObjectAnimationUsingKeyFrames>
+            											<ObjectAnimationUsingKeyFrames Storyboard.TargetName="image" Storyboard.TargetProperty="MaxHeight">
+            												<DiscreteObjectKeyFrame KeyTime="0" Value="160"/>
+            											</ObjectAnimationUsingKeyFrames>
+            										</Storyboard>
+            									</VisualState>
+            								</VisualStateGroup>
+            							</VisualStateManager.VisualStateGroups>
+                                <!-- Content is allowed to flow across as many columns as needed -->
+            							<!-- Content is allowed to flow across as many columns as needed -->
+            							<!-- Content is allowed to flow across as many columns as needed -->
+            							<common:RichTextColumns x:Name="richTextColumns" Height="640" Background="#97210514" Margin="0,75,0,0" VerticalAlignment="Top" MinHeight="640">
+            								<common:RichTextColumns.ColumnTemplate>
+            									<DataTemplate>
+            										<RichTextBlockOverflow Margin="80,0,0,0" Width="560">
+            											<RichTextBlockOverflow.RenderTransform>
+            												<TranslateTransform X="-1" Y="4"/>
+            											</RichTextBlockOverflow.RenderTransform>
+            										</RichTextBlockOverflow>
+            									</DataTemplate>
+            								</common:RichTextColumns.ColumnTemplate>
+            								<RichTextBlock x:Name="richTextBlock" IsTextSelectionEnabled="False" LineHeight="45" Margin="49,20,0,0" Style="{StaticResource ItemRichTextStyle}" TextAlignment="Left" Width="560">
+            									<Paragraph>
+            										<Run CharacterSpacing="10" Foreground="{Binding Cor}" FontWeight="SemiBold" FontSize="46.667" Text="{Binding Title}"/>
+            										<LineBreak/>
+            										<LineBreak/>
+            										<Run Foreground="{Binding Cor}" FontWeight="Bold" FontSize="29.667" Text="{Binding Subtitle}"/>
+            									</Paragraph>
+            									<Paragraph LineStackingStrategy="MaxHeight">
+            										<InlineUIContainer>
+            											<Image x:Name="image" MaxHeight="480" Margin="0,20,0,10" AutomationProperties.Name="{Binding Title}" Source="{Binding Image}" Stretch="Uniform"/>
+            										</InlineUIContainer>
+            									</Paragraph>
+            									<Paragraph>
+            										<Run Foreground="{Binding Cor}" FontWeight="SemiLight" FontSize="36" Text="{Binding Conteudo}"/>
+            									</Paragraph>
+            								</RichTextBlock>
+
+            							</common:RichTextColumns>
+
+            						</ScrollViewer>
+            					</UserControl>
+
+            				</Viewbox>
+
+
+
+
+            				<Viewbox Stretch="Fill" x:Name="viewAgenda"  Grid.Row="1"  Grid.RowSpan="2" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,75,0,0" Visibility="Collapsed">
+
+            					<ScrollViewer Style="{StaticResource HorizontalScrollViewerStyle}" BorderThickness="0,0,0,5"  Width="2560" Height="1440" FontSize="22" Foreground="#FF343434" >
+
+            						<GridView 
+            							x:Name="itemGridView"
+            							HorizontalAlignment="Left" 
+            							Margin="220,0,0,0" 
+            							SelectionMode="None"
+            							ItemsSource="{Binding AgendaCulturalVO.ListaItemAgendaCultural}"
+            							ItemTemplate="{StaticResource itemListAgendaCultural}"
+            							Grid.Row="1"
+            							ItemClick="ItemGridView_ItemClick" 
+            							VerticalAlignment="Center" 
+            							Grid.RowSpan="2" 
+            							IsItemClickEnabled="True" Foreground="White">
+            							<GridView.GroupStyle>
+            								<GroupStyle>
+            									<GroupStyle.HeaderTemplate>
+            										<DataTemplate>
+            											<Grid Margin="0" >
+            												<StackPanel x:Name="stackAgenda"  Orientation="Horizontal" >
+            													<TextBlock x:Name="txtCategoriaAgenda" Text="{Binding AgendaCulturalVO.Titulo}"  Foreground="Transparent"  Margin="0,0,0,50" Style="{StaticResource GroupHeaderTextStyle}" FontSize="66"/>
+            												</StackPanel>
+            											</Grid>
+            										</DataTemplate>
+            									</GroupStyle.HeaderTemplate>
+            									<GroupStyle.Panel>
+            										<ItemsPanelTemplate>
+            											<VariableSizedWrapGrid Orientation="Vertical"  MaximumRowsOrColumns="2" />
+            										</ItemsPanelTemplate>
+            									</GroupStyle.Panel>
+            								</GroupStyle>
+            							</GridView.GroupStyle>
+            						</GridView>
+            					</ScrollViewer>
+            				</Viewbox>
+
+            			</Grid>
+
+            		</Grid>
+            		<Viewbox Height="137" Margin="31,0,10,2" VerticalAlignment="Center" Grid.Column="1" Width="837.000061035156">
+            			<StackPanel HorizontalAlignment="Left" Height="113" VerticalAlignment="Top" Width="804">
+            				<Grid Background="#97210514" x:Name="PlayerBottomGrid" Margin="0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="447" Height="113">
+            					<StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,-440,0" Width="744">
+            						<Button x:Name="playBtn" Style="{StaticResource ImageButtonStyle}" Click="playBtn_Click" HorizontalAlignment="Left" Width="80" Height="80" VerticalAlignment="Center">
+            							<Image x:Name="imgPlayBtn" Source="Assets/play.png" Height="70" Width="79" HorizontalAlignment="Left" VerticalAlignment="Top" />
+            						</Button>
+            						<Button x:Name="nextBtn" Style="{StaticResource ImageButtonStyle}" Click="nextBtn_Click" HorizontalAlignment="Right" Width="216" Height="100">
+            							<StackPanel Orientation="Vertical" VerticalAlignment="Bottom" HorizontalAlignment="Center">
+            								<StackPanel Orientation="Horizontal" Margin="10,0,10,10" d:IsHidden="True">
+            									<TextBlock x:Name="titleTxt" Style="{StaticResource BodyTextStyle}" TextTrimming="WordEllipsis"  FontSize="16" Foreground="White" Margin="0,0,5,0" Height="25"/>
+            									<TextBlock x:Name="descriptionTxt" Style="{StaticResource BodyTextStyle}" TextTrimming="WordEllipsis" FontSize="16" Foreground="White" Height="25"/>
+            								</StackPanel>
+            								<StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            									<ProgressRing x:Name="progressPlayer" IsActive="True" Width="15" Height="15" Foreground="White" Margin="0,0,5,0"/>
+            									<TextBlock x:Name="statusTxt" Style="{StaticResource BodyTextStyle}" FontSize="18" Foreground="White"/>
+            								</StackPanel>
+            							</StackPanel>
+            						</Button>
+            						<Grid Background="#97210514" x:Name="PlayerBottomGridBanner" Margin="20,0,0,0" Height="98" Width="404" VerticalAlignment="Top" HorizontalAlignment="Right">
+            							<StackPanel Orientation="Horizontal" Width="473" HorizontalAlignment="Left" Margin="0,-24,-69,24">
+            								<ScrollViewer Height="119" Width="444" Margin="0,0,0,-48">
+            									<WebView x:Name="wvBanner" Height="114" Width="417" VerticalAlignment="Center" HorizontalAlignment="Left" />
+            								</ScrollViewer>
+                                        
+            							</StackPanel>
+            							<TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Publicidade" VerticalAlignment="Top" Margin="0,-18,0,0" Canvas.ZIndex="1"/>
+            						</Grid>
+            					</StackPanel>
+            				</Grid>
+            
+            			</StackPanel>
+            
+            		</Viewbox>
+            		<Viewbox Grid.Column="1" Margin="56,38,26,0" Height="116" HorizontalAlignment="Center" Width="796" Grid.Row="2" VerticalAlignment="Top">
+            			<Grid x:Name="GridMenuCategoria" Grid.Column="1" Height="121" Margin="0,0,0,0"  HorizontalAlignment="Left" Width="936">
+            				<ListView ItemsSource="{Binding CATEGORIA}"   ScrollViewer.HorizontalScrollBarVisibility="Auto"
+            					ScrollViewer.HorizontalScrollMode="Enabled"
+            					ScrollViewer.VerticalScrollMode="Disabled" 
+            					x:Name="grdCategoria"
+              
+            					Grid.Row="0"
+            					Tapped="grdCategoria_Tapped" Padding="0"   Margin="0,4,10,0"  VerticalAlignment="Top" FontFamily="Segoe UI"   >
+            					<ListView.ItemTemplate>
+            						<DataTemplate>
+            							<ListViewItem IsHitTestVisible="False">
+            								<StackPanel>
+
+        								<!--<Image x:Name="ImageGrid" Source="{Binding ImageGrid }" Stretch="Uniform" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="220" Height="Auto"/>-->
+
+            									<TextBlock x:Name="txtNomeTitulo" Text="{Binding Categoria}" Foreground="{Binding FontColor}"  FontSize="36"  Style="{StaticResource HeaderTextStyle}" />
+
+            								</StackPanel>
+            							</ListViewItem>
+            						</DataTemplate>
+            					</ListView.ItemTemplate>
+            					<ListView.ItemsPanel>
+            						<ItemsPanelTemplate>
+            							<StackPanel
+            								Orientation="Horizontal" />
+            						</ItemsPanelTemplate>
+            					</ListView.ItemsPanel>
+
+            				</ListView>
+            			</Grid>
+            		</Viewbox>
+            		<Grid x:Name="GridTituloAgenda" Grid.Column="1" Height="110" Margin="25,0,-67,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="920" Grid.Row="2">
+            			<TextBlock x:Name="txtAgendaCultural" HorizontalAlignment="Center" Height="80" Margin="0,20,5,5" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Center" FontSize="40" Style="{StaticResource HeaderTextStyle}" Width="916" Padding="30,0,0,0" d:IsHidden="True" Foreground="White" />
+            		</Grid>
+            		<StackPanel HorizontalAlignment="Left" Height="11" VerticalAlignment="Top" Width="61" Margin="472,34,0,0" Grid.Column="1">
+            			<TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Publicidade" VerticalAlignment="Top" FontSize="10.667" Foreground="#FFFFFF"/>
+            		</StackPanel>
+            	</Grid>
+            </Viewbox>
+            <Viewbox HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="1356" Grid.ColumnSpan="2">
+            	<Grid x:Name="GridSnapped" Height="728" Width="293" Visibility="Collapsed">
+            		<Grid.RowDefinitions>
+            			<RowDefinition Height="80"/>
+            			<RowDefinition Height="*"/>
+            		</Grid.RowDefinitions>
+
+            <!-- Logo topo -->
+            		<Image Grid.Row="0" x:Name="ImageTopoSnapped" Source="Assets/TitleLogo.png" Stretch="Uniform" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0" Width="300" Height="80"/>
+
+            		<Grid Grid.Row="1" HorizontalAlignment="Left" Width="190">
+            			<Grid.RowDefinitions>
+            				<RowDefinition Height="Auto"/>
+            				<RowDefinition Height="*"/>
+            			</Grid.RowDefinitions>
+
+            			<Grid Grid.Row="0" HorizontalAlignment="Center" Margin="0,0,-122,5" Grid.RowSpan="2" Width="297">
+            				<Grid x:Name="GridPlayerSnapped" Height="432" VerticalAlignment="Top" Margin="0,15,0,-131">
+            					<Grid.RowDefinitions>
+            						<RowDefinition Height="*" />
+            						<RowDefinition Height="175" />
+            						<RowDefinition Height="90" />
+            					</Grid.RowDefinitions>
+
+            					<TextBlock x:Name="TitleNamePlayerSnapped" Grid.Row="0" HorizontalAlignment="Center" Text="Publicidade" FontSize="21" Margin="62,0,36,174" Style="{StaticResource HeaderTextStyle}" Foreground="White" Height="54" VerticalAlignment="Bottom" Grid.RowSpan="2" Width="199" />
+
+            					<Grid Grid.Row="1" Background="#48C2C5" Width="190" x:Name="PlayerTopGridSnapped" Margin="0,0,0,5">
+                            <!--<Button Name="favoriteBtnSnapped" Style="{StaticResource ImageButtonStyle}" Click="favoriteBtn_Click" HorizontalAlignment="Right" VerticalAlignment="Top" Width="40" Height="40">
+                                <Image Name="favoriteImgSnapped" Source="Assets/favorito.png" Margin="5"/>
+                            </Button>-->
+            						<Grid  Height="95" Width="95" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,13,0,0">
+            							<Image x:Name="radioLogoImgSnapped" Margin="5" d:IsHidden="True"/>
+            						</Grid>
+            						<StackPanel Orientation="Vertical" VerticalAlignment="Bottom" HorizontalAlignment="Center" Margin="0,0,0,15" Width="200" Height="180"/>
+                                <WebView x:Name="banner_Copy" Width="210" Height="190" Margin="0,-10,-34,-10" HorizontalAlignment="Left"  />
+            					</Grid>
+
+            					<Grid Grid.Row="2" Background="#48C2C5" Width="215" x:Name="PlayerBottomGridRedeSocialSnapped" Margin="50,16,32,-6" Height="80">
+            						<StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="5,5,5,0" Height="70" Width="165">
+            							<Button x:Name="btnFacebookGeral1"  Style="{StaticResource ImageButtonStyle}" Click="btnFacebookGeral_Click" HorizontalAlignment="Left" Width="55" Height="55">
+                                        <Image x:Name="btnFacebook1" Margin="5,10,10,10" Source="Assets/1_icone_compartilhar_facebook.png"/>
+            							</Button>
+            							<Button x:Name="btnTwiterGeral1" Style="{StaticResource ImageButtonStyle}" Click="btnTwiterGeral_Click" HorizontalAlignment="Center" Width="55" Height="55">
+                                        <Image x:Name="btnTwiter1" Margin="5,10,10,10" Source="Assets/2_icone_compartilhar_twitter.png" Width="80" />
+            							</Button>
+            							<Button x:Name="btnInstagramGeral1" Style="{StaticResource ImageButtonStyle}" Click="btnInstagramGeral_Click" HorizontalAlignment="Right" Width="55" Height="55">
+            								<Image x:Name="nextImg2" Margin="5,10,10,10" Source="Assets/0_3_icone_compartilhar_instagram.png" />
+            							</Button>
+            						</StackPanel>
+            					</Grid>
+            					<Grid Background="#48C2C5" Width="207" x:Name="PlayerBottomGridSnapped" Margin="58,19,32,68" Height="80">
+            						<StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left">
+            							<Button x:Name="playBtnSnapped1" Style="{StaticResource ImageButtonStyle}" Click="playBtn_Click" HorizontalAlignment="Center" Width="70" Height="70">
+            								<Image x:Name="imgPlayBtnSnapped1" Margin="5" Source="Assets/play.png" />
+            							</Button>
+            						</StackPanel>
+            						<StackPanel Orientation="Horizontal" Margin="70,34,76,18" HorizontalAlignment="Center" VerticalAlignment="Center" Width="44">
+            							<ProgressRing x:Name="progressPlayerSnapped" IsActive="True" Width="105" Height="26" Foreground="White" Margin="0,4,2,4"/>
+            							<TextBlock x:Name="statusTxtSnapped" Style="{StaticResource BodyTextStyle}" FontSize="11" Foreground="White" d:IsHidden="True"/>
+            						</StackPanel>
+            						<StackPanel Orientation="Horizontal" Margin="72,6,6,43">
+            							<TextBlock x:Name="titleTxtSnapped" Style="{StaticResource BodyTextStyle}" TextTrimming="WordEllipsis"  FontSize="8" Foreground="White" Margin="0,0,2,0" d:IsHidden="True"/>
+            							<TextBlock x:Name="descriptionTxtSnapped" Style="{StaticResource BodyTextStyle}" TextTrimming="WordEllipsis" FontSize="8" Foreground="White" d:IsHidden="True"/>
+            						</StackPanel>
+            					</Grid>
+            				</Grid>
+            			</Grid>
+
+            			<Grid Grid.Row="1" VerticalAlignment="Bottom">
+            				<!--<ListView Grid.Row="1" ItemsSource="{Binding Source={StaticResource cvsRadioCategory}}" x:Name="radiosGridSnapped" Margin="0,0,0,0" 
+                            Tapped="radiosGrid_Tapped"   SelectionChanged="OnItemSelected" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Name="GridViewRootItem" Background="{Binding Color}" Orientation="Horizontal" Width="175" Height="70">
+                                    <Grid Height="65" Width="65" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center">
+                                        <Image Source="{Binding Image}" Stretch="Uniform" Margin="5"/>
+                                    </Grid>
+                                    <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Left" >
+                                        <TextBlock Text="{Binding Title}" FontSize="13" Foreground="White" TextTrimming="WordEllipsis" />
+                                        <TextBlock Text="{Binding Description}" FontSize="13" Foreground="White" TextTrimming="WordEllipsis" />
+                                        <TextBlock Text="{Binding Locality}" FontSize="13" Foreground="White" TextTrimming="WordEllipsis" />
+                                    </StackPanel>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+
+                        <ListView.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <StackPanel Orientation="Vertical"/>
+                            </ItemsPanelTemplate>
+                        </ListView.ItemsPanel>
+
+                        <ListView.GroupStyle>
+                            <GroupStyle HidesIfEmpty="True">
+                                <GroupStyle.HeaderTemplate>
+                                    <DataTemplate>
+                                        <Grid Margin="0">
+                                            <TextBlock Text='{Binding Category}' Foreground='{Binding Color}' FontSize="21" Margin="7,0,0,11" Style="{StaticResource HeaderTextStyle}"/>
+                                        </Grid>
+                                    </DataTemplate>
+                                </GroupStyle.HeaderTemplate>
+
+                                <GroupStyle.ContainerStyle>
+                                    <Style TargetType="GroupItem">
+                                        <Setter Property="Margin" Value="10,0"/>
+                                    </Style>
+                                </GroupStyle.ContainerStyle>
+
+                                <GroupStyle.Panel>
+                                    <ItemsPanelTemplate>
+                                        <VariableSizedWrapGrid/>
+                                    </ItemsPanelTemplate>
+                                </GroupStyle.Panel>
+                            </GroupStyle>
+                        </ListView.GroupStyle>
+                    </ListView>-->
+
+            			</Grid>
+            		</Grid>
+            	</Grid>
+            </Viewbox>
+        <MediaElement x:Name="mediaPlayer" AudioCategory="BackgroundCapableMedia" CurrentStateChanged="mediaPlayer_CurrentStateChanged" 
+                      BufferingProgressChanged="mediaPlayer_BufferingProgressChanged" 
+                      MediaFailed="mediaPlayer_MediaFailed" MediaOpened="mediaPlayer_MediaOpened" Margin="311,374,629,393" Grid.Column="1"/>
+        <Button Grid.Row="0" x:Name="backButton" Click="GoBack" Style="{StaticResource BotaoVoltar}" Height="96" Margin="10,1,0,0" Width="Auto" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FF10437B" BorderBrush="#FF10437B" Canvas.ZIndex="100" Visibility="Collapsed"/>
+        <!--<Button x:Name="btnSetaDireita" Content="" Grid.Column="1" HorizontalAlignment="Left" Height="54" Margin="974,254,0,0" VerticalAlignment="Top" Width="54" BorderBrush="{x:Null}" Foreground="{x:Null}" Click="btnSetaDireita_Click" Visibility="Collapsed">
+            <Button.Background>
+                <ImageBrush ImageSource="Assets/setaDireita.png" Stretch="UniformToFill"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btnSetaEsquerda" Content="" Grid.Column="1" HorizontalAlignment="Left" Height="54" Margin="140,254,0,0" VerticalAlignment="Top" Width="54" BorderBrush="{x:Null}" Foreground="{x:Null}" Visibility="Collapsed">
+            <Button.Background>
+                <ImageBrush ImageSource="Assets/setaEsqierda.png" Stretch="UniformToFill"/>
+            </Button.Background>
+        </Button>-->
+
+
+
+        <!--<GridView ItemsSource="{Binding CATEGORIA}" Style="{StaticResource GroupHeaderGridTextStyle}" x:Name="grdCategoria"   Margin="194,168,10,480" Grid.Column="1"  FontFamily="Segoe UI" FontSize="72"  >
+            <GridView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <VirtualizingStackPanel  Orientation="Horizontal" VariableSizedWrapGrid.RowSpan="4" VariableSizedWrapGrid.ColumnSpan="3"/>
+                </ItemsPanelTemplate>
+            </GridView.ItemsPanel>
+
+        </GridView>-->
+
+    </Grid>
+    <Page.BottomAppBar>
+        <AppBar>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left" Visibility="Collapsed">
+                    <Button x:Name="AppBarUpdateDataBtn" Style="{StaticResource BtnAppBarAtualizaDados}" Click="AppBarUpdateDataBtn_Click"  />
+                </StackPanel>
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+</common:LayoutAwarePage> 

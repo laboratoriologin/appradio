@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="RadioCBN" Publisher="CN=Ricardo" Version="2.0.0.30" />
+  <Properties>
+    <DisplayName>RadioPlayerCBN</DisplayName>
+    <PublisherDisplayName>Login Informática LTDA.</PublisherDisplayName>
+    <Logo>Assets\CBN\180\Store-Logo-90x90px.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="RadioPlayerCBN.App">
+      <VisualElements DisplayName="CBN" Logo="Assets\CBN\100\Logo-150x50px.png" SmallLogo="Assets\CBN\180\Small-Logo-54x54px.png" Description="CBN" ForegroundText="light" BackgroundColor="#FFFFFF">
+        <DefaultTile WideLogo="Assets\CBN\180\Wide-Logo-558x270px.png" />
+        <SplashScreen Image="Assets\180\Splash-Screen-1116x540px.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.backgroundTasks" StartPage="MainPage.xaml">
+          <BackgroundTasks>
+            <Task Type="audio" />
+          </BackgroundTasks>
+        </Extension>
+        <Extension Category="windows.fileSavePicker">
+          <FileSavePicker>
+            <SupportedFileTypes>
+              <SupportsAnyFileType />
+            </SupportedFileTypes>
+          </FileSavePicker>
+        </Extension>
+        <Extension Category="windows.fileTypeAssociation">
+          <FileTypeAssociation Name=".xml">
+            <DisplayName>Xml</DisplayName>
+            <SupportedFileTypes>
+              <FileType ContentType="text/xml">.xml</FileType>
+            </SupportedFileTypes>
+          </FileTypeAssociation>
+        </Extension>
+        <Extension Category="windows.fileOpenPicker">
+          <FileOpenPicker>
+            <SupportedFileTypes>
+              <SupportsAnyFileType />
+            </SupportedFileTypes>
+          </FileOpenPicker>
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="documentsLibrary" />
+    <Capability Name="privateNetworkClientServer" />
+    <Capability Name="internetClientServer" />
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

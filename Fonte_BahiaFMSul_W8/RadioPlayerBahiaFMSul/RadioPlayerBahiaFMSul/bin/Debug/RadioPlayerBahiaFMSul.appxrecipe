@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RICARDO-LABLOG</Machine>
+    <WindowsUser>Ricardo</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\RadioPlayerBahiaFMSul.exe">
+      <PackagePath>RadioPlayerBahiaFMSul.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\RadioPlayerBahiaFMSul.pdb">
+      <PackagePath>RadioPlayerBahiaFMSul.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\GoogleAnalyticsTracker.Core.dll">
+      <PackagePath>GoogleAnalyticsTracker.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\GoogleAnalyticsTracker.RT.dll">
+      <PackagePath>GoogleAnalyticsTracker.RT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\HtmlAgilityPack.dll">
+      <PackagePath>HtmlAgilityPack.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\HtmlAgilityPack.pdb">
+      <PackagePath>HtmlAgilityPack.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\HtmlAgilityPack.xml">
+      <PackagePath>HtmlAgilityPack.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\+.png">
+      <PackagePath>Assets\+.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\0_3_icone_compartilhar_instagram.png">
+      <PackagePath>Assets\0_3_icone_compartilhar_instagram.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\1+.png">
+      <PackagePath>Assets\1+.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\180\Splash-Screen-1116x540px.scale-100.png">
+      <PackagePath>Assets\180\Splash-Screen-1116x540px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\180\Splash-Screen-1116x540px.scale-140.png">
+      <PackagePath>Assets\180\Splash-Screen-1116x540px.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\180\Splash-Screen-1116x540px.scale-180.png">
+      <PackagePath>Assets\180\Splash-Screen-1116x540px.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\1_+.png">
+      <PackagePath>Assets\1_+.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\1_icone_compartilhar_facebook.png">
+      <PackagePath>Assets\1_icone_compartilhar_facebook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\1_icone_globo_cultura_teatro.png">
+      <PackagePath>Assets\1_icone_globo_cultura_teatro.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\2_icone_compartilhar_twitter.png">
+      <PackagePath>Assets\2_icone_compartilhar_twitter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\2_icone_globo_cultura_cinema.png">
+      <PackagePath>Assets\2_icone_globo_cultura_cinema.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\3_icone_globo_cultura_musica.png">
+      <PackagePath>Assets\3_icone_globo_cultura_musica.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\4_icone_globo_cultura_exposicao.png">
+      <PackagePath>Assets\4_icone_globo_cultura_exposicao.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\620x300_splash_com_logo_login.scale-100.png">
+      <PackagePath>Assets\620x300_splash_com_logo_login.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\620x300_splash_com_logo_login.scale-140.png">
+      <PackagePath>Assets\620x300_splash_com_logo_login.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\620x300_splash_com_logo_login.scale-180.png">
+      <PackagePath>Assets\620x300_splash_com_logo_login.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\background_snap_bahiasul.png">
+      <PackagePath>Assets\background_snap_bahiasul.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\bahia.png">
+      <PackagePath>Assets\bahia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\bahia_sul.png">
+      <PackagePath>Assets\bahia_sul.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Background-1920x1080px.png">
+      <PackagePath>Assets\BFM_SUL\100\Background-1920x1080px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Logo-150x150px.scale-100.png">
+      <PackagePath>Assets\BFM_SUL\100\Logo-150x150px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Logo-150x50px.png">
+      <PackagePath>Assets\BFM_SUL\100\Logo-150x50px.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Logo-150x50px.scale-100.png">
+      <PackagePath>Assets\BFM_SUL\100\Logo-150x50px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Logo-150x50px.scale-140.png">
+      <PackagePath>Assets\BFM_SUL\100\Logo-150x50px.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Logo-150x50px.scale-180.png">
+      <PackagePath>Assets\BFM_SUL\100\Logo-150x50px.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Logo-150x50px.scale-80.png">
+      <PackagePath>Assets\BFM_SUL\100\Logo-150x50px.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Logo-na-tela-Home-131x158px - BFM.png">
+      <PackagePath>Assets\BFM_SUL\100\Logo-na-tela-Home-131x158px - BFM.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Logo-na-tela-Home-131x158px - BFMSUL.png">
+      <PackagePath>Assets\BFM_SUL\100\Logo-na-tela-Home-131x158px - BFMSUL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Logo-na-tela-Home-302x163px.png">
+      <PackagePath>Assets\BFM_SUL\100\Logo-na-tela-Home-302x163px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Small-Logo-30x30px.png">
+      <PackagePath>Assets\BFM_SUL\100\Small-Logo-30x30px.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Splash-Screen-620x300px.png">
+      <PackagePath>Assets\BFM_SUL\100\Splash-Screen-620x300px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Splash-Screen-620x300px.scale-100.png">
+      <PackagePath>Assets\BFM_SUL\100\Splash-Screen-620x300px.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Splash-Screen-620x300px.scale-140.png">
+      <PackagePath>Assets\BFM_SUL\100\Splash-Screen-620x300px.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Splash-Screen-620x300px.scale-180.png">
+      <PackagePath>Assets\BFM_SUL\100\Splash-Screen-620x300px.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Store-Logo-50x50px.png">
+      <PackagePath>Assets\BFM_SUL\100\Store-Logo-50x50px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\100\Wide-Logo-310x150-px.png">
+      <PackagePath>Assets\BFM_SUL\100\Wide-Logo-310x150-px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\140\Background-1920x1080px.png">
+      <PackagePath>Assets\BFM_SUL\140\Background-1920x1080px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\140\Logo-210x210px.png">
+      <PackagePath>Assets\BFM_SUL\140\Logo-210x210px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\140\Logo-na-tela-Home-131x158px - BFMSUL.png">
+      <PackagePath>Assets\BFM_SUL\140\Logo-na-tela-Home-131x158px - BFMSUL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\140\Logo-na-tela-Home-131x158px - BFMSUL2.png">
+      <PackagePath>Assets\BFM_SUL\140\Logo-na-tela-Home-131x158px - BFMSUL2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\140\Logo-na-tela-Home-302x163px -BFMSUL.png">
+      <PackagePath>Assets\BFM_SUL\140\Logo-na-tela-Home-302x163px -BFMSUL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\140\Logo-na-tela-Home-302x163px.png">
+      <PackagePath>Assets\BFM_SUL\140\Logo-na-tela-Home-302x163px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\140\Small-Logo-42x42px.png">
+      <PackagePath>Assets\BFM_SUL\140\Small-Logo-42x42px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\140\Splash-Screen-868x420px.png">
+      <PackagePath>Assets\BFM_SUL\140\Splash-Screen-868x420px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\140\Store-Logo-70x70px.png">
+      <PackagePath>Assets\BFM_SUL\140\Store-Logo-70x70px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\140\Wide-Logo-434x210px.png">
+      <PackagePath>Assets\BFM_SUL\140\Wide-Logo-434x210px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Background-1920x1080px.png">
+      <PackagePath>Assets\BFM_SUL\180\Background-1920x1080px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Logo-270x270px.png">
+      <PackagePath>Assets\BFM_SUL\180\Logo-270x270px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Logo-270x270px.scale-100.png">
+      <PackagePath>Assets\BFM_SUL\180\Logo-270x270px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Logo-270x270px.scale-140.png">
+      <PackagePath>Assets\BFM_SUL\180\Logo-270x270px.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Logo-270x270px.scale-180.png">
+      <PackagePath>Assets\BFM_SUL\180\Logo-270x270px.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Logo-270x270px.scale-80.png">
+      <PackagePath>Assets\BFM_SUL\180\Logo-270x270px.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Logo-na-tela-Home-302x163px.png">
+      <PackagePath>Assets\BFM_SUL\180\Logo-na-tela-Home-302x163px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Small-Logo-54x54px.png">
+      <PackagePath>Assets\BFM_SUL\180\Small-Logo-54x54px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Small-Logo-54x54px.scale-100.png">
+      <PackagePath>Assets\BFM_SUL\180\Small-Logo-54x54px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Small-Logo-54x54px.scale-140.png">
+      <PackagePath>Assets\BFM_SUL\180\Small-Logo-54x54px.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Small-Logo-54x54px.scale-180.png">
+      <PackagePath>Assets\BFM_SUL\180\Small-Logo-54x54px.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Small-Logo-54x54px.scale-80.png">
+      <PackagePath>Assets\BFM_SUL\180\Small-Logo-54x54px.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Splash-Screen-1116x540px.png">
+      <PackagePath>Assets\BFM_SUL\180\Splash-Screen-1116x540px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Store-Logo-90x90px.png">
+      <PackagePath>Assets\BFM_SUL\180\Store-Logo-90x90px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\180\Wide-Logo-558x270px.png">
+      <PackagePath>Assets\BFM_SUL\180\Wide-Logo-558x270px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\80\Background-1920x1080px.png">
+      <PackagePath>Assets\BFM_SUL\80\Background-1920x1080px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\80\Logo-120x120px.png">
+      <PackagePath>Assets\BFM_SUL\80\Logo-120x120px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\80\Logo-na-tela-Home-302x163px.png">
+      <PackagePath>Assets\BFM_SUL\80\Logo-na-tela-Home-302x163px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\80\Small-Logo-24x24px.png">
+      <PackagePath>Assets\BFM_SUL\80\Small-Logo-24x24px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\80\Wide-Logo-248x120px.png">
+      <PackagePath>Assets\BFM_SUL\80\Wide-Logo-248x120px.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\background_snap_bahiasul.png">
+      <PackagePath>Assets\BFM_SUL\background_snap_bahiasul.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\bg_bahiasul.png">
+      <PackagePath>Assets\BFM_SUL\bg_bahiasul.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\BFM_SUL\logo_home_bahiasul.png">
+      <PackagePath>Assets\BFM_SUL\logo_home_bahiasul.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\bg_player.png">
+      <PackagePath>Assets\bg_player.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\Copy of 1_icone_globo_cultura_teatro.png">
+      <PackagePath>Assets\Copy of 1_icone_globo_cultura_teatro.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\Copy of 2_icone_globo_cultura_cinema.png">
+      <PackagePath>Assets\Copy of 2_icone_globo_cultura_cinema.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\Copy of 3_icone_globo_cultura_musica.png">
+      <PackagePath>Assets\Copy of 3_icone_globo_cultura_musica.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\Copy of 4_icone_globo_cultura_exposicao.png">
+      <PackagePath>Assets\Copy of 4_icone_globo_cultura_exposicao.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\globo.png">
+      <PackagePath>Assets\globo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\icone_compartilhar_facebook.png">
+      <PackagePath>Assets\icone_compartilhar_facebook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\logo_globofm.png">
+      <PackagePath>Assets\logo_globofm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\pause.png">
+      <PackagePath>Assets\pause.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\pause_azul.png">
+      <PackagePath>Assets\pause_azul.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\play.png">
+      <PackagePath>Assets\play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\play_azul.png">
+      <PackagePath>Assets\play_azul.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Assets\logo_cbnfmsalvador.jpg">
+      <PackagePath>Assets\logo_cbnfmsalvador.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Beans\Class Model\System\Class1.java">
+      <PackagePath>Beans\Class Model\System\Class1.java</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Beans\Class Model\System\Class2.java">
+      <PackagePath>Beans\Class Model\System\Class2.java</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Beans\Class Model\System\Class3.java">
+      <PackagePath>Beans\Class Model\System\Class3.java</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Beans\Class Model\System\Interface1.java">
+      <PackagePath>Beans\Class Model\System\Interface1.java</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Beans\Domain Model\Domain Objects\Class1.java">
+      <PackagePath>Beans\Domain Model\Domain Objects\Class1.java</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Beans\Domain Model\Domain Objects\Class2.java">
+      <PackagePath>Beans\Domain Model\Domain Objects\Class2.java</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Beans\Domain Model\Domain Objects\Class3.java">
+      <PackagePath>Beans\Domain Model\Domain Objects\Class3.java</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bootTheme.xml">
+      <PackagePath>bootTheme.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Common\Architecture\xmlStyle.xml">
+      <PackagePath>Common\Architecture\xmlStyle.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\Common\RichTextBlockHtml2Xaml.xslt">
+      <PackagePath>Common\RichTextBlockHtml2Xaml.xslt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\PageWhatsapp.html">
+      <PackagePath>PageWhatsapp.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\SquareBannerPage.html">
+      <PackagePath>SquareBannerPage.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\SquareBannerPageSnapped.html">
+      <PackagePath>SquareBannerPageSnapped.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\Common\ExtendedSplash.xaml">
+      <PackagePath>Common\ExtendedSplash.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\Common\Flyout\TelaMensagem.xaml">
+      <PackagePath>Common\Flyout\TelaMensagem.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\Common\RadioStyles.xaml">
+      <PackagePath>Common\RadioStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\DetalheAgendaCinema.xaml">
+      <PackagePath>DetalheAgendaCinema.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\DetalheAgendaCultural.xaml">
+      <PackagePath>DetalheAgendaCultural.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\ProjetoRadio\Radio - Versao2.6\Fonte_BahiaFMSul_W8\RadioPlayerBahiaFMSul\RadioPlayerBahiaFMSul\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

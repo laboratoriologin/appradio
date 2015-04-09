@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6F4848CE-728F-423B-9255-07AAA5699D1F}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RadioPlayer</RootNamespace>
+    <AssemblyName>RadioPlayer</AssemblyName>
+    <DefaultLanguage>pt-BR</DefaultLanguage>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>RadioPlayer_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <PackageCertificateThumbprint>A652FF0F3FF0BDB867548CF7BD13F2CDEE81A069</PackageCertificateThumbprint>
+    <AppxPackageDir>D:\Projetos\Radio\Publicacao\GloboFM\</AppxPackageDir>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Beans\BO\AgendaCulturalBLL.cs" />
+    <Compile Include="Beans\BO\DetalhamentoAgendaCulturalCinemaBLL.cs" />
+    <Compile Include="Beans\BO\DetalhamentoNoticiaBLL.cs" />
+    <Compile Include="Beans\BO\GrupoAgendaCulturalBLL.cs" />
+    <Compile Include="Beans\BO\GrupoNoticiasItemBLL.cs" />
+    <Compile Include="Beans\BO\HomeBLL.cs" />
+    <Compile Include="Beans\BO\RssParserSerializableVO.cs" />
+    <Compile Include="Beans\DataSourceRadio.cs" />
+    <Compile Include="Beans\ValueObject\BindableBaseVO.cs" />
+    <Compile Include="Beans\ValueObject\BootThemeVO.cs" />
+    <Compile Include="Beans\ValueObject\ColorVO.cs" />
+    <Compile Include="Beans\ValueObject\Menu.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\AgendaCultural\AgendaCulturalVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\AgendaCultural\CinemaVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\AgendaCultural\GrupoAgendaCulturalVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\AgendaCultural\HorarioVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\AgendaCultural\ItemAgendaCulturalVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\AgendaCultural\ItemDetalheAgendaCulturalVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\AgendaCultural\ItemEmCartazEventoAgendaCulturalVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\AgendaCultural\ItemOndeEstaPassandoFilmeAgendaCulturalVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\AgendaCultural\TipoAgendaCulturalVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\Noticia\DetalhamentoNoticiasVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\Noticia\GrupoNoticiasItemVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\Principal\CategoriaVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\Principal\ItemVO.cs" />
+    <Compile Include="Beans\ValueObject\ValueObject.View\Principal\SubItemVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\ChannelAgendaCulturalVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Cartaz\ChannelCinemaVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Cartaz\HorarioVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Cartaz\ItemCinemaVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Cartaz\LinkSingleItemVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Cartaz\SessaoVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Lancamento\ChannelLancamentoCinemaVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Lancamento\HorarioVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Lancamento\ItemLancamentoCinemaVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Lancamento\LinkSingleItemVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Lancamento\SessaoVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Salas\ChannelSalaCinemaVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Salas\CinemaVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Salas\EnderecoSalaCinemaVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Salas\HorarioVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Salas\ItemSalaCinemaVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Salas\LinkSingleItemVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\Cinema\Salas\SessaoVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\EnderecoVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\ItemAgendaCulturalVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\LinkSingleItemVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\AgendaCulturalXML\SessaoVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\CategoriaVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\ChannelVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\ImageVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\ItemVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\NoticiaCorreioXML\CategoriaCorreioVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\NoticiaCorreioXML\ChannelCorreioVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\NoticiaCorreioXML\ImageCorreioVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\NoticiaCorreioXML\ItemCorreioVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\PodCastXML\CategoriaPodCastVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\PodCastXML\ChannelPodCastVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\PodCastXML\ImagePodCastVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\PodCastXML\ItemPodCastVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\ProgramacaoRadioXML\CategoriaProgramacaoRadioXMLVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\ProgramacaoRadioXML\ChannelProgramacaoRadioXMLVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\ProgramacaoRadioXML\ImageChannelProgramacaoRadioXMLVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\ProgramacaoRadioXML\ItemProgramacaoRadioXMLVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\ProgramacaoRadioXML\HorarioProgramacaoRadioXMLVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\Salvador\CategoriaSalvadorVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\Salvador\ChannelSalvadorVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\Salvador\ImageChannelSalvadorVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\Salvador\ItemSalvadorVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\Promocao\CategoriaPromocaoVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\Promocao\ChannelPromocaoVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\Promocao\ImageChannelPromocaoVO.cs" />
+    <Compile Include="Beans\ValueObject\Xml\Promocao\ItemPromocaoVO.cs" />
+    <Compile Include="Common\Architecture\Constantes.cs" />
+    <Compile Include="Common\Architecture\ExceptionManager.cs" />
+    <Compile Include="Common\Architecture\Main.cs" />
+    <Compile Include="Common\Architecture\ObjectToXml.cs" />
+    <Compile Include="Common\Architecture\Util.cs" />
+    <Compile Include="Common\Architecture\XmlParserSerializableVO.cs" />
+    <Compile Include="Common\Architecture\XMLParserVO.cs" />
+    <Compile Include="Common\BindableBase.cs" />
+    <Compile Include="Common\BooleanNegationConverter.cs" />
+    <Compile Include="Common\BooleanToVisibilityConverter.cs" />
+    <Compile Include="Common\DetalheEventoTemplateSelector.cs" />
+    <Compile Include="Common\ExtendedSplash.xaml.cs">
+      <DependentUpon>ExtendedSplash.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Common\GridViewTemplateSelector.cs" />
+    <Compile Include="Common\GrupoNoticiaTemplateSelector.cs" />
+    <Compile Include="Common\HtmlToText.cs" />
+    <Compile Include="Common\HtmlToRtfConverter.cs" />
+    <Compile Include="Common\LayoutAwarePage.cs" />
+    <Compile Include="Common\RichTextBlockProperties.cs" />
+    <Compile Include="Common\RichTextColumns.cs" />
+    <Compile Include="Common\SuspensionManager.cs" />
+    <Compile Include="Common\SuspensionManagerException.cs" />
+    <Compile Include="DetalheAgendaCinema.xaml.cs">
+      <DependentUpon>DetalheAgendaCinema.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DetalheAgendaCultural.xaml.cs">
+      <DependentUpon>DetalheAgendaCultural.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Flyout\TelaMensagem.xaml.cs">
+      <DependentUpon>TelaMensagem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Beans\ValueObject\Theme.cs" />
+    <Compile Include="Beans\BO\RadioBO.cs" />
+    <Compile Include="Beans\DAO\Preference.cs" />
+    <Compile Include="Beans\DAO\RadioDAO.cs" />
+    <Compile Include="Beans\DAO\ThemeDAO.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Beans\ValueObject\RadioCategory.cs" />
+    <Compile Include="Beans\ValueObject\RadioItem.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <PRIResource Include="ResourcesProgramacaoRadio.resw" />
+    <PRIResource Include="ResourcesSalvador.resw" />
+    <PRIResource Include="ResourcesPromocao.resw" />
+    <None Include="packages.config" />
+    <None Include="RadioPlayer_TemporaryKey.pfx" />
+    <PRIResource Include="ResourcesPodCast.resw" />
+    <PRIResource Include="ResourcesCorreio.resw" />
+    <PRIResource Include="ResourcesBoot.resw" />
+    <PRIResource Include="ResourcesImagem.resw" />
+    <PRIResource Include="ResourcesErro.resw" />
+    <PRIResource Include="ResourcesCinema.resw" />
+    <PRIResource Include="ResourcesAG.resw" />
+    <PRIResource Include="Resources.resw" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\+.png" />
+    <Content Include="Assets\+_azul.png" />
+    <Content Include="Assets\0_3_icone_compartilhar_instagram.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\1+.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\180\Splash-Screen-1116x540px.scale-100.png" />
+    <Content Include="Assets\180\Splash-Screen-1116x540px.scale-140.png" />
+    <Content Include="Assets\180\Splash-Screen-1116x540px.scale-180.png" />
+    <Content Include="Assets\1_+.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\1_icone_compartilhar_facebook.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\1_icone_globo_cultura_teatro.png" />
+    <Content Include="Assets\2_icone_compartilhar_twitter.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\2_icone_globo_cultura_cinema.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\3_icone_globo_cultura_musica.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\4_icone_globo_cultura_exposicao.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\background_snap_globo.png" />
+    <Content Include="Assets\GFM\100\Background-1920x1080px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\100\Logo-150x50px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\100\Logo-150x50px2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\100\Logo-na-tela-Home-302x163px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\100\Small-Logo-30x30px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\100\Splash-Screen-620x300px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\100\Store-Logo-50x50px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\100\Wide-Logo-310x150-px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\140\Background-1920x1080px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\140\Logo-210x210px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\140\Logo-na-tela-Home-302x163px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\140\Small-Logo-42x42px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\140\Splash-Screen-868x420px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\140\Store-Logo-70x70px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\140\Wide-Logo-434x210px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\180\Background-1920x1080px.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\180\Logo-270x270px.scale-100.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\180\Logo-270x270px.scale-140.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\180\Logo-270x270px.scale-180.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\180\Logo-270x270px.scale-80.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\180\Logo-na-tela-Home-302x163px.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\180\Small-Logo-54x54px.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\180\Splash-Screen-1116x540px.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\180\Store-Logo-90x90px.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\180\Wide-Logo-558x270px.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\80\Background-1920x1080px.png" />
+    <Content Include="Assets\GFM\80\Logo-120x120px.png" />
+    <Content Include="Assets\GFM\80\Logo-na-tela-Home-302x163px.png" />
+    <Content Include="Assets\GFM\80\Small-Logo-24x24px.png" />
+    <Content Include="Assets\GFM\80\Wide-Logo-248x120px.png" />
+    <Content Include="Assets\GFM\background_snap_globo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\bg_globo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\Logo-150x50px.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\GFM\logo_home_globofmsalvador.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\logo_globofm.png" />
+    <Content Include="Assets\pause.png" />
+    <Content Include="Assets\play.png" />
+    <Content Include="Assets\SmallLogo.scale-100.png" />
+    <Content Include="Assets\SmallLogo.scale-140.png" />
+    <Content Include="Assets\SmallLogo.scale-180.png" />
+    <Content Include="Assets\SmallLogo.scale-80.png" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\StoreLogo.scale-140.png" />
+    <Content Include="Assets\StoreLogo.scale-180.png" />
+    <Content Include="Common\Architecture\xmlStyle.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Common\ReadMe.txt" />
+    <Content Include="SquareBannerPage.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SquareBannerPageSnapped.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <EmbeddedResource Include="Common\RichTextBlockHtml2Xaml.xslt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Common\ExtendedSplash.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Common\RadioStyles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Common\StandardStyles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DetalheAgendaCinema.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DetalheAgendaCultural.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Flyout\TelaMensagem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="GoogleAnalyticsTracker.Core">
+      <HintPath>packages\GoogleAnalyticsTracker.Core.3.0.20\lib\portable-net45+win+wp80\GoogleAnalyticsTracker.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GoogleAnalyticsTracker.RT">
+      <HintPath>packages\GoogleAnalyticsTracker.RT.3.0.20\lib\win\GoogleAnalyticsTracker.RT.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.4.6.0, Culture=neutral, PublicKeyToken=678cda889909cc4a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>packages\HtmlAgilityPack.1.4.6\lib\winrt45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0' ">
+    <VisualStudioVersion>11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
